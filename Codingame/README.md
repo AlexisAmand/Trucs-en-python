@@ -1,10 +1,12 @@
-# Mes trucs en python
+## Codingame
 
 J'apprends Python doucement...
 
-## Codingame
+Vous pouvez retrouver sur cette page toutes mes tentatives de réponses aux défis proposés sur le site codingame !
 
-* [Horse Racing Duals](https://github.com/AlexisAmand/Mes-trucs-en-python/blob/master/Codingame/horse-racing-duals.py) (2 tests sur 3 réussis)
+https://www.codingame.com/
+
+* [Horse Racing Duals](https://github.com/AlexisAmand/Mes-trucs-en-python/blob/master/Codingame/horse-racing-duals.py) (score : 55%)
 
 ##  Ma config
 
