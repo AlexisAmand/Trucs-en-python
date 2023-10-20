@@ -6,11 +6,8 @@ A la fin de chacune de ses vidéos, Graven propose un petit exercice/tp. Ce doss
 
 ## Les tutos de Graven
 
-Sa chaine Youtube :    
-https://www.youtube.com/@Gravenilvectuto
-
-Ma version de ses tps :    
-https://github.com/AlexisAmand/python/tree/master/TP%20Graven
+* [Sa chaine Youtube](https://www.youtube.com/@Gravenilvectuto)
+* [Mes réponses à ses tps](https://github.com/AlexisAmand/python/tree/master/TP%20Graven)
 
 ##  Ma config
 
