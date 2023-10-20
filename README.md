@@ -9,7 +9,8 @@ https://github.com/AlexisAmand/python/blob/master/FindTheNumber.py
 Sa chaine Youtube :    
 https://www.youtube.com/@Gravenilvectuto
 
-Ma version de ses tps :
+Ma version de ses tps :    
+https://github.com/AlexisAmand/python/tree/master/TP%20Graven
 
 
 
