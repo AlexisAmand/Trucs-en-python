@@ -6,8 +6,7 @@ A la fin de chacune de ses vidéos, Graven propose un petit exercice/tp. Ce doss
 
 ## Codingame
 
-Horse Racing Duals (2 tests sur 3 réussis)
-horse-racing-duals.py
+* Horse Racing Duals (2 tests sur 3 réussis) : horse-racing-duals.py
 
 ##  Ma config
 * Windows 11
