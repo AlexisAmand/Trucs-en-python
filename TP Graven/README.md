@@ -2,10 +2,7 @@
 
 J'apprends Python doucement...
 
-## Find the number
-
-Seras-tu capable de trouver à quel nombre pense l'ordinateur ?    
-https://github.com/AlexisAmand/python/blob/master/FindTheNumber.py
+A la fin de chacune de ses vidéos, Graven propose un petit exercice/tp. Ce dossier regroupe mes tentatives de réponses, n'hésitez pas à essayer mes scripts, et pourquoi pas, me proposer des améliorations.
 
 ## Les tutos de Graven
 Sa chaine Youtube :    
