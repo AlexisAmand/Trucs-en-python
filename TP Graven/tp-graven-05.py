@@ -13,7 +13,7 @@ proposition = 0
 while proposition != prix:
     proposition = int(input("Entrer un prix :"))
     
-    # -> s'il trouve le juste prux "c'est gagné !"
+    # -> s'il trouve le juste prix "c'est gagné !"
     if proposition == prix:
         print ("C'est gagné !")
         
