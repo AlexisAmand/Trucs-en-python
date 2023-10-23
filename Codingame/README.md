@@ -9,6 +9,7 @@ C'est par là : https://www.codingame.com/
 ### Puzzles
 
 * [Horse Racing Duals](https://github.com/AlexisAmand/Mes-trucs-en-python/blob/master/Codingame/horse-racing-duals.py) (score : 54%)
+* [Happy Numbers](https://github.com/AlexisAmand/Mes-trucs-en-python/blob/master/Codingame/happy-number.py) (score : 100%)
 
 ### "Taille de code"
 
