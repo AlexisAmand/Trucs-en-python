@@ -10,6 +10,7 @@ J'apprends Python doucement...
 
 ## Jeux
 
+* [Jouer à Chifoumy contre l'ordinateur !](https://github.com/AlexisAmand/python/blob/master/chifoumy.py)
 * [Seras-tu capable de trouver à quel nombre pense l'ordinateur ?](https://github.com/AlexisAmand/python/blob/master/FindTheNumber.py)
 
 ## Les tutos de Graven
