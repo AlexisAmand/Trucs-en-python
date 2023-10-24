@@ -2,10 +2,14 @@
 
 J'apprends Python doucement...
 
-## Petits programmes
+## Mathématiques
 
+* [Liste des diviseurs d'un nombre entier](https://github.com/AlexisAmand/python/blob/master/diviseurs.py)
 * [Calcul de la factorielle d'un nombre](https://github.com/AlexisAmand/python/blob/master/factorielle.py)
 * [Savoir si une année est bissextile](https://github.com/AlexisAmand/python/blob/master/bissextile.py)
+
+## Jeux
+
 * [Seras-tu capable de trouver à quel nombre pense l'ordinateur ?](https://github.com/AlexisAmand/python/blob/master/FindTheNumber.py)
 
 ## Les tutos de Graven
