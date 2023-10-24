@@ -2,8 +2,10 @@
 
 J'apprends Python doucement...
 
-## Find the number
+## Petits programmes
 
+* [Calcul de la factorielle d'un nombre](https://github.com/AlexisAmand/python/blob/master/factorielle.py)
+* [Savoir si une année est bissextile](https://github.com/AlexisAmand/python/blob/master/bissextile.py)
 * [Seras-tu capable de trouver à quel nombre pense l'ordinateur ?](https://github.com/AlexisAmand/python/blob/master/FindTheNumber.py)
 
 ## Les tutos de Graven
