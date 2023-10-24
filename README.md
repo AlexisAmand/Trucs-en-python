@@ -4,14 +4,14 @@ J'apprends Python doucement...
 
 ## Mathématiques
 
-* [Liste des diviseurs d'un nombre entier](https://github.com/AlexisAmand/python/blob/master/diviseurs.py)
-* [Calcul de la factorielle d'un nombre](https://github.com/AlexisAmand/python/blob/master/factorielle.py)
-* [Savoir si une année est bissextile](https://github.com/AlexisAmand/python/blob/master/bissextile.py)
+* [Liste des diviseurs d'un nombre entier](https://github.com/AlexisAmand/python/blob/master/Maths/diviseurs.py)
+* [Calcul de la factorielle d'un nombre](https://github.com/AlexisAmand/python/blob/master/Maths/factorielle.py)
+* [Savoir si une année est bissextile](https://github.com/AlexisAmand/python/blob/master/Maths/bissextile.py)
 
 ## Jeux
 
-* [Jouer à Chifoumi contre l'ordinateur !](https://github.com/AlexisAmand/python/blob/master/chifoumi.py)
-* [Seras-tu capable de trouver à quel nombre pense l'ordinateur ?](https://github.com/AlexisAmand/python/blob/master/FindTheNumber.py)
+* [Jouer à Chifoumi contre l'ordinateur !](https://github.com/AlexisAmand/python/blob/master/Games/chifoumi.py)
+* [Seras-tu capable de trouver à quel nombre pense l'ordinateur ?](https://github.com/AlexisAmand/python/blob/master/Games/Maths/FindTheNumber.py)
 
 ## Les tutos de Graven
 
