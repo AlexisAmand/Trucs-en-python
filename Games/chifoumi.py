@@ -47,10 +47,9 @@ while partie <= manches:
         points_joueur += 1
     
     #affichage des points
-    print()
-    print(f"score du joueur: {points_joueur}")
-    print(f"score de l'ordinateur: {points_ordi}")
-    print()  
+
+    print(f"\nscore du joueur: {points_joueur}")
+    print(f"score de l'ordinateur: {points_ordi}\n")
     
     partie += 1     
     
