@@ -15,4 +15,13 @@ J'apprends Python doucement...
 * Visual Studio 17.7.6    
 * Python 3.12
 
+## Cette page vous a été utile ?
+Pourquoi pas me remercier en m'offrant un café ?
+
+<a href="https://www.buymeacoffee.com/alexisamand" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="210" ></a>
+
+
+
+
+
 
