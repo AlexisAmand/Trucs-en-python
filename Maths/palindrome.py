@@ -1,11 +1,11 @@
-# Palindrome
+﻿# Palindrome
 
 print("Un mot est-il un palindrome ? \n")
 
 # Prompt pour entrer le mot
 mot = input("Indiquez le mot: ")
 
-# On met le mot en minuscules pour �viter les pbs de casse dans la chaine mot.
+# On met le mot en minuscules pour éviter les pbs de casse dans la chaine mot.
 mot = mot.casefold()
 
 # [::-1] permet d'inverser la chaine
