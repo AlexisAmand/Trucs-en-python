@@ -8,7 +8,7 @@ J'apprends Python doucement...
 ##  Ma config
 
 * Windows 11
-* Visual Studio 17.7.5    
+* Visual Studio 17.7.6    
 * Python 3.12
 
 
