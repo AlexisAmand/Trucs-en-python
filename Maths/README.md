@@ -4,7 +4,7 @@ On apprend Python doucement...
 
 * [A quel jour de la semaine correspond une date ?](https://github.com/AlexisAmand/python/blob/master/Maths/jour-semaine.py)
 * [Calcul de la factorielle d'un nombre](https://github.com/AlexisAmand/python/blob/master/Maths/factorielle.py)
-* [éterminer si un entier est premier](https://github.com/AlexisAmand/python/blob/master/Maths/premier.py)
+* [Déterminer si un entier est premier](https://github.com/AlexisAmand/python/blob/master/Maths/premier.py)
 * [Le mot est-il un palindrome ?](https://github.com/AlexisAmand/python/blob/master/Maths/palindrome.py)
 * [Liste des diviseurs d'un nombre entier](https://github.com/AlexisAmand/python/blob/master/Maths/diviseurs.py)
 * [Une année est-elle bissextile ?](https://github.com/AlexisAmand/python/blob/master/Maths/bissextile.py)
