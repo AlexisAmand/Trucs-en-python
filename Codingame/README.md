@@ -1,6 +1,6 @@
 ## Codingame
 
-J'apprends Python doucement...
+On apprend Python doucement...
 
 Vous pouvez retrouver sur cette page toutes mes tentatives de réponses aux défis proposés sur le site codingame !
 

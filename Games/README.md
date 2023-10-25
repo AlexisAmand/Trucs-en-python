@@ -1,6 +1,6 @@
 # Jeux
 
-J'apprends Python doucement...
+On apprend Python doucement...
 
 * [Jouer à Chifoumi contre l'ordinateur !](https://github.com/AlexisAmand/python/blob/master/Games/chifoumi.py)
 * [Seras-tu capable de trouver à quel nombre pense l'ordinateur ?](https://github.com/AlexisAmand/python/blob/master/Games/FindTheNumber.py)
