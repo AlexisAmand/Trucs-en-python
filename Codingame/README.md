@@ -18,6 +18,7 @@ C'est par là : https://www.codingame.com/
 ### "Taille de code"
 
 * [Power of Thor](https://github.com/AlexisAmand/Mes-trucs-en-python/blob/master/Codingame/power-of-thor.py) (score : 100%, 264 caractères)
+* [Temperatures](https://github.com/AlexisAmand/Mes-trucs-en-python/blob/master/Codingame/temperatures-tc.py) (score : 100%, 230 caratères)
 
 ##  Ma config
 
