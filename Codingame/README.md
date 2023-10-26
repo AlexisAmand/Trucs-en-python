@@ -13,6 +13,7 @@ C'est par là : https://www.codingame.com/
 * [Horse Racing Duals](https://github.com/AlexisAmand/Mes-trucs-en-python/blob/master/Codingame/horse-racing-duals.py) (score : 54%)
 * [Mars Lander épisode 1](https://github.com/AlexisAmand/Mes-trucs-en-python/blob/master/Codingame/mars-lander-ep-01.py) (score : 100%)
 * [Onboarding](https://github.com/AlexisAmand/Mes-trucs-en-python/blob/master/Codingame/onboarding.py) (score : 100%)
+* [Temperatures](https://github.com/AlexisAmand/Mes-trucs-en-python/blob/master/Codingame/temperatures.py) (score : 100%)
 
 ### "Taille de code"
 
