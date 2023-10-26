@@ -18,7 +18,7 @@ C'est par là : https://www.codingame.com/
 ### Codesizes
 
 * [Power of Thor](https://github.com/AlexisAmand/Mes-trucs-en-python/blob/master/Codingame/thor-codesize.py) (score : 100%, 220 caractères)
-* [Temperatures](https://github.com/AlexisAmand/Mes-trucs-en-python/blob/master/Codingame/temperatures-tc.py) (score : 100%, 230 caratères)
+* [Temperatures](https://github.com/AlexisAmand/Mes-trucs-en-python/blob/master/Codingame/temperatures-codesize.py) (score : 100%, 229 caratères)
 * [The Descent](https://github.com/AlexisAmand/Mes-trucs-en-python/blob/master/Codingame/descente-codesize.py) (score : 100%, 179 caratères)
 
 ##  Ma config
