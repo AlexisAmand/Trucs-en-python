@@ -8,17 +8,18 @@ C'est par là : https://www.codingame.com/
 
 ### Puzzles
 
-* [Descente](https://github.com/AlexisAmand/Mes-trucs-en-python/blob/master/Codingame/descente.py) (score : 100%)
 * [Happy Numbers](https://github.com/AlexisAmand/Mes-trucs-en-python/blob/master/Codingame/happy-numbers.py) (score : 100%)
 * [Horse Racing Duals](https://github.com/AlexisAmand/Mes-trucs-en-python/blob/master/Codingame/horse-racing-duals.py) (score : 54%)
 * [Mars Lander épisode 1](https://github.com/AlexisAmand/Mes-trucs-en-python/blob/master/Codingame/mars-lander-ep-01.py) (score : 100%)
 * [Onboarding](https://github.com/AlexisAmand/Mes-trucs-en-python/blob/master/Codingame/onboarding.py) (score : 100%)
 * [Temperatures](https://github.com/AlexisAmand/Mes-trucs-en-python/blob/master/Codingame/temperatures.py) (score : 100%)
+* [The Descent](https://github.com/AlexisAmand/Mes-trucs-en-python/blob/master/Codingame/descente.py) (score : 100%)
 
-### "Taille de code"
+### Codesizes
 
 * [Power of Thor](https://github.com/AlexisAmand/Mes-trucs-en-python/blob/master/Codingame/power-of-thor.py) (score : 100%, 264 caractères)
 * [Temperatures](https://github.com/AlexisAmand/Mes-trucs-en-python/blob/master/Codingame/temperatures-tc.py) (score : 100%, 230 caratères)
+* [The Descent](https://github.com/AlexisAmand/Mes-trucs-en-python/blob/master/Codingame/descente-codesize.py) (score : 100%, 179 caratères)
 
 ##  Ma config
 
