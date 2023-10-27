@@ -11,6 +11,7 @@ C'est par là : https://www.codingame.com/
 * [Happy Numbers](https://github.com/AlexisAmand/Mes-trucs-en-python/blob/master/Codingame/happy-numbers.py) (score : 100%)
 * [Horse Racing Duals](https://github.com/AlexisAmand/Mes-trucs-en-python/blob/master/Codingame/horse-racing-duals.py) (score : 54%)
 * [Mars Lander épisode 1](https://github.com/AlexisAmand/Mes-trucs-en-python/blob/master/Codingame/mars-lander-ep-01.py) (score : 100%)
+* [Next Growing Number](https://github.com/AlexisAmand/Mes-trucs-en-python/blob/master/Codingame/growing.py) (score : 80%)
 * [Onboarding](https://github.com/AlexisAmand/Mes-trucs-en-python/blob/master/Codingame/onboarding.py) (score : 100%)
 * [Temperatures](https://github.com/AlexisAmand/Mes-trucs-en-python/blob/master/Codingame/temperatures.py) (score : 100%)
 * [The Descent](https://github.com/AlexisAmand/Mes-trucs-en-python/blob/master/Codingame/descente.py) (score : 100%)

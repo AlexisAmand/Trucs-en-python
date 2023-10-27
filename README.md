@@ -1,4 +1,4 @@
-# Mes trucs en python
+# Trucs en Python
 
 On apprend Python doucement...
 
