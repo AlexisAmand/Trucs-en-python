@@ -25,6 +25,10 @@ On apprend Python doucement...
 
 * [Mes défis Python via Codingame](https://github.com/AlexisAmand/Mes-trucs-en-python/tree/master/Codingame)
 
+## Développez.com
+
+* [Mes solutions à leurs exos sur Python](https://github.com/AlexisAmand/python/tree/master/DeveloppezCom)
+
 ##  Ma config
 
 * Windows 11
