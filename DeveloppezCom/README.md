@@ -2,9 +2,7 @@
 
 On apprend Python doucement...
 
-Vous pouvez retrouver sur cette page toutes mes tentatives de réponses aux exerices proposés sur le site developpez.com !
-
-C'est par là : https://python.developpez.com/cours/apprendre-python-3/?page=exercices-corriges#L14
+Vous pouvez retrouver sur cette page toutes mes tentatives de réponses aux exercices proposés sur le site [developpez.com](https://python.developpez.com/cours/apprendre-python-3/?page=exercices-corriges#L14) dans le cadre de leur cours sur Python. Le monde de Python est tout nouveau pour moi, n'hésitez pas à me contacter si vous avez une remarque ou une question à propos de mes petits codes sources.
 
 ##  Ma config
 

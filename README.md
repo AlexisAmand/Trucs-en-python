@@ -23,9 +23,13 @@ On apprend Python doucement...
 
 ## Codingame
 
+Vous pouvez retrouver sur cette page toutes mes tentatives de réponses aux défis proposés sur le site codingame !
+
 * [Mes défis Python via Codingame](https://github.com/AlexisAmand/Mes-trucs-en-python/tree/master/Codingame)
 
 ## Développez.com
+
+Vous pouvez retrouver sur cette page toutes mes tentatives de réponses aux exercices proposés sur le site developpez.com dans le cadre de leur cours sur Python. Le monde de Python est tout nouveau pour moi, n'hésitez pas à me contacter si vous avez une remarque ou une question à propos de mes petits codes sources.
 
 * [Mes solutions à leurs exos sur Python](https://github.com/AlexisAmand/python/tree/master/DeveloppezCom)
 
