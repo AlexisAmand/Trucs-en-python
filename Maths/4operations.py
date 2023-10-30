@@ -27,14 +27,14 @@ def produit():
 
 
 
-# fonction qui fait un produit
+# fonction qui fait une soustraction
 def soustraction():
     saisie();
     print(f"la différence entre {a} et {b} est : {a - b}")
     
 
 
- # fonction qui fait un produit
+ # fonction qui fait une division
 def division():
     saisie();
     if b == 0:
