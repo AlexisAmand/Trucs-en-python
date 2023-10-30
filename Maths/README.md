@@ -2,6 +2,7 @@
 
 On apprend Python doucement...
 
+* [Affichage d'une table de multiplication](https://github.com/AlexisAmand/python/blob/master/Maths/table.py)
 * [A quel jour de la semaine correspond une date ?](https://github.com/AlexisAmand/python/blob/master/Maths/jour-semaine.py)
 * [Calcul de la factorielle d'un nombre](https://github.com/AlexisAmand/python/blob/master/Maths/factorielle.py)
 * [Déterminer si un entier est premier](https://github.com/AlexisAmand/python/blob/master/Maths/premier.py)
