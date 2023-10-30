@@ -6,6 +6,7 @@ On apprend Python doucement...
 * [Calcul de la factorielle d'un nombre](https://github.com/AlexisAmand/python/blob/master/Maths/factorielle.py)
 * [Déterminer si un entier est premier](https://github.com/AlexisAmand/python/blob/master/Maths/premier.py)
 * [Le mot est-il un palindrome ?](https://github.com/AlexisAmand/python/blob/master/Maths/palindrome.py)
+* [Les 4 opérations avec 2 nombres](https://github.com/AlexisAmand/python/blob/master/Maths/4operations.py)
 * [Liste des diviseurs d'un nombre entier](https://github.com/AlexisAmand/python/blob/master/Maths/diviseurs.py)
 * [Une année est-elle bissextile ?](https://github.com/AlexisAmand/python/blob/master/Maths/bissextile.py)
 
