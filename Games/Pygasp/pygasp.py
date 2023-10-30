@@ -5,6 +5,7 @@ import os
 # nombre de coups déjà joué
 
 nb_coup, n, x_count = 0, 6, 6
+x, y = 0, 0
 damier = []
 
 # effacer l'écran
@@ -80,17 +81,26 @@ affiche_damier()
 while x_count != 16:
     
     # coup du joueur
-    
-    print(f"\nVous avez déjà joué {nb_coup} coup(s).")
-    coup = input("Votre coup (colonne, ligne)): ")
-    nb_coup += 1
-    
-    # récupération des coordonnées du pion choisi
-    # comme en maths : x pour les colonnes, y pour les lignes
+    # avec test pour voir si le coup est ok
 
-    coup = coup.split(",")     
-    x = int(coup[0])
-    y = int(coup[1])
+    print(f"\nVous avez déjà joué {nb_coup} coup(s).")
+
+    while True:
+        coup = input("Votre coup (colonne, ligne)): ")  
+        try:
+            # récupération des coordonnées du pion choisi
+            # comme en maths : x pour les colonnes, y pour les lignes
+            coup = coup.split(",")     
+            x = int(coup[1])
+            y = int(coup[0])
+            if 1 <= x < n-1 and 1 <= y < n-1:
+                break # Sortir de la boucle si les valeurs sont valides
+            else:
+                print("\nLes valeurs doivent être entre 1 et {n-2} !\n")
+        except ValueError:
+            print("\nVous devez indiquer des entiers !\n")
+        
+        nb_coup += 1
     
     # on retourne les pions autour de celui choisi
     for colonne in range(x-1,x+2): 
