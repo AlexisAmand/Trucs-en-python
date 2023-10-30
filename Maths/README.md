@@ -9,6 +9,7 @@ On apprend Python doucement...
 * [Le mot est-il un palindrome ?](https://github.com/AlexisAmand/python/blob/master/Maths/palindrome.py)
 * [Les 4 opérations avec 2 nombres](https://github.com/AlexisAmand/python/blob/master/Maths/4operations.py)
 * [Liste des diviseurs d'un nombre entier](https://github.com/AlexisAmand/python/blob/master/Maths/diviseurs.py)
+* [Tirage des numéros du Loto](https://github.com/AlexisAmand/python/blob/master/Maths/loto.py)
 * [Une année est-elle bissextile ?](https://github.com/AlexisAmand/python/blob/master/Maths/bissextile.py)
 
 ##  Ma config
