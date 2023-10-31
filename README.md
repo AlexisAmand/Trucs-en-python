@@ -21,6 +21,10 @@ On apprend Python doucement...
 * [Le Gasp](https://github.com/AlexisAmand/python/blob/master/Games/Pygasp)
 * [Seras-tu capable de trouver à quel nombre pense l'ordinateur ?](https://github.com/AlexisAmand/python/blob/master/Games/FindTheNumber.py)
 
+## Divers
+
+* [Comment raccourcir une url avec Python ?](https://github.com/AlexisAmand/python/blob/master/Divers/pyshort.py)
+
 ## Les tutos de Graven
 
 * [Sa chaine Youtube](https://www.youtube.com/@Gravenilvectuto)
@@ -43,6 +47,7 @@ Vous pouvez retrouver sur cette page toutes mes tentatives de réponses aux exer
 * Windows 11
 * Visual Studio 17.7.6    
 * Python 3.12
+* pip 23.3.1
 
 ## Cette page vous a été utile ?
 Pourquoi pas me remercier en m'offrant un café ?

@@ -1,10 +1,10 @@
-# Jeux
+# Trucs en Python
 
 On apprend Python doucement...
 
-* [Jouer à Chifoumi contre l'ordinateur !](https://github.com/AlexisAmand/python/blob/master/Games/chifoumi.py)
-* [Le Gasp](https://github.com/AlexisAmand/python/blob/master/Games/Pygasp)
-* [Seras-tu capable de trouver à quel nombre pense l'ordinateur ?](https://github.com/AlexisAmand/python/blob/master/Games/FindTheNumber.py)
+## Divers
+
+* [Comment raccourcir une url avec Python ?](https://github.com/AlexisAmand/python/blob/master/Divers/pyshort.py)
 
 ##  Ma config
 
@@ -17,10 +17,6 @@ On apprend Python doucement...
 Pourquoi pas me remercier en m'offrant un café ?
 
 <a href="https://www.buymeacoffee.com/alexisamand" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="210" ></a>
-
-
-
-
 
 
 

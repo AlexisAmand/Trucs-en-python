@@ -27,6 +27,7 @@ C'est par là : https://www.codingame.com/
 * Windows 11
 * Visual Studio 17.7.6  
 * Python 3.12
+* pip 23.3.1
 
 ## Cette page vous a été utile ?
 Pourquoi pas me remercier en m'offrant un café ?
