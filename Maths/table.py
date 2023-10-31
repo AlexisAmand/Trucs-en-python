@@ -12,10 +12,10 @@ while True:
         try:
             if m == 0:
                 print("Au revoir.")
-            break
+                break
             table(m)
         except ValueError:
-            print("\nVous devez indiquer un !\n")
+            print("\nVous devez indiquer un entier !\n")
         
 
 
