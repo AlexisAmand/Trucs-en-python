@@ -1,3 +1,5 @@
+# Trouver à quel nombre pense d'ordinateur
+
 import random
 
 # Valeur minimale du nombre à trouver

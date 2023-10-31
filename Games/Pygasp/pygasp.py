@@ -1,4 +1,4 @@
-﻿# Le Gasp
+﻿# pygasp : la version Python de The Gasp
 
 import os
 

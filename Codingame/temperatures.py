@@ -1,4 +1,6 @@
-﻿import sys
+﻿# puzzle : Temperatures
+
+import sys
 import math
 
 # liste des temperatures

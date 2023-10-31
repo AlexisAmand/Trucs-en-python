@@ -1,11 +1,10 @@
 ﻿# tirage du loto
 
+# Depuis 2008, il faut désormais obtenir cinq numéros parmi 49, plus un « numéro chance » parmi dix.
+
 import random
 
 numeros = list()
-
-# Depuis 2008, il faut désormais obtenir cinq numéros parmi 49, plus un « numéro chance » parmi dix.
-
 
 # cette fonction permet le tirage des 5 numéros
 def tirage_numeros():

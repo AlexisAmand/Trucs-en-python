@@ -1,4 +1,5 @@
 ﻿# Tuto 02 de Graven
+
 # récolter une valeur porte monnaie
 porte_monnaie = int(input("Quelle est la valeur du porte monnaie ?"))
 print(f"Vous avez {str(porte_monnaie)} euros.")

@@ -14,6 +14,7 @@ def saisie():
 
    
 # fonction qui fait une addition
+
 def addition():
     saisie();
     print(f"la somme de {a} et {b} est : {a + b}")
@@ -21,6 +22,7 @@ def addition():
 
 
 # fonction qui fait un produit
+
 def produit():
     saisie();
     print(f"le produit de {a} et {b} est : {a * b}")
@@ -28,6 +30,7 @@ def produit():
 
 
 # fonction qui fait une soustraction
+
 def soustraction():
     saisie();
     print(f"la différence entre {a} et {b} est : {a - b}")
@@ -35,6 +38,7 @@ def soustraction():
 
 
  # fonction qui fait une division
+
 def division():
     saisie();
     if b == 0:
