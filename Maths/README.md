@@ -8,6 +8,7 @@ On apprend Python doucement...
 * [Calcul des N premiers nombres de Fermat](https://github.com/AlexisAmand/python/blob/master/Maths/fermat.py)
 * [Calcul des N premiers termes de la suite de Fibonacci](https://github.com/AlexisAmand/python/blob/master/Maths/fibonacci.py)
 * [Déterminer si un entier est premier](https://github.com/AlexisAmand/python/blob/master/Maths/premier.py)
+* [Déterminer si un entier est sublime](https://github.com/AlexisAmand/python/blob/master/Maths/sublime.py)
 * [Le mot est-il un palindrome ?](https://github.com/AlexisAmand/python/blob/master/Maths/palindrome.py)
 * [Les 4 opérations avec 2 nombres](https://github.com/AlexisAmand/python/blob/master/Maths/4operations.py)
 * [Le triangle de Pascal](https://github.com/AlexisAmand/python/blob/master/Maths/pascal.py)
