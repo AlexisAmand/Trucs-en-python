@@ -5,6 +5,7 @@ On apprend Python doucement...
 * [Affichage d'une table de multiplication](https://github.com/AlexisAmand/python/blob/master/Maths/table.py)
 * [A quel jour de la semaine correspond une date ?](https://github.com/AlexisAmand/python/blob/master/Maths/jour-semaine.py)
 * [Calcul de la factorielle d'un nombre](https://github.com/AlexisAmand/python/blob/master/Maths/factorielle.py)
+* [Calcul des N premiers termes de la suite de Fibonacci](https://github.com/AlexisAmand/python/blob/master/Maths/fibonacci.py)
 * [Déterminer si un entier est premier](https://github.com/AlexisAmand/python/blob/master/Maths/premier.py)
 * [Le mot est-il un palindrome ?](https://github.com/AlexisAmand/python/blob/master/Maths/palindrome.py)
 * [Les 4 opérations avec 2 nombres](https://github.com/AlexisAmand/python/blob/master/Maths/4operations.py)
