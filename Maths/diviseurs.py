@@ -7,6 +7,13 @@ def diviseurs(x):
             divs.append(i)
     return divs
         
-
-x = int(input("Indiquez un entier: "))   
-print(f"La liste des diviseurs de {x} est {diviseurs(x)}")
+while True:
+    try:
+        x = int(input("Indiquez un entier (0 pour quitter): "))   
+    except ValueError as e:
+        print("Vous devez choisir un entier positif. - %s" % e)
+    else:
+        if x == 0:
+            print("Au revoir !")
+            break
+        print(f"La liste des diviseurs de {x} est {diviseurs(x)}")

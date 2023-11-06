@@ -1,5 +1,5 @@
-# affiche N lignes du Triangle de Pascal
-# avec les vérifications pour être sûr que N est un entier
+ï»¿# affiche N lignes du Triangle de Pascal
+# avec les vÃ©rifications pour Ãªtre sÃ»r que N est un entier
 
 # fonction pour calculer une factorielle
 
@@ -16,12 +16,13 @@ def factorielle(x):
 
 # programme principal
 
-while True:
-    
+while True:   
     try:
-        n = input("Combien de lignes voulez-vous afficher (0 pour quitter)? ")
-        print()  
-        n = int(n)    
+        n = int(input("Combien de lignes voulez-vous afficher (0 pour quitter)? "))
+    except ValueError as e:
+        print("Vous devez indiquer un entier !- %s" % e)
+    else:    
+        print()   
         if n == 0:
             print('fin du programme.\n')
             break
@@ -31,8 +32,6 @@ while True:
                 print(f"{resultat} ", end="")
             print()
         print() 
-    except ValueError as e:
-        print("Vous devez indiquer un entier !- %s" % e)
     
    
 

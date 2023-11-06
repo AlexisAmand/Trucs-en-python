@@ -9,23 +9,24 @@ def diviseurs(x):
             divs.append(i)
     return divs
 
-# Uniquement pour voir si le test est fini
 
-fini = False
 
 # On demande à un entier à l'utilisateur
 # Il faut vérifier que x est bien une série de chiffres avec isdigit()
 
 # Un nombre N est premier s'il a uniquement 2 diviseurs : 1 et N
         
-while fini == False:
-    x = input("Indiquez un entier: ")
-    if(x.isdigit()):
+while True:
+    try:
+        x = int(input("Indiquez un entier (0 pour quitter): "))
+    except ValueError as e: 
+        print("Merci d'indiquez un nombre entier !")
+    else:
+        if x == 0:
+            print('fin du programme.\n')
+            break
+        
         if len(diviseurs(int(x))) == 2:
             print(f"{x} est premier !")
-            fini = True
         else:
-            print(f"{x} n'est pas premier !")
-            fini = True
-    else:
-        print("Merci d'indiquez un nombre entier !")
+            print(f"{x} n'est pas premier !")  

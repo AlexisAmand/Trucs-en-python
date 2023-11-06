@@ -10,16 +10,18 @@ print("Ce programme affiche la table de N.\n")
 
 # programme principal
 while True:
-        m = input("\nQuelle table voulez vous afficher (0 pour quitter)? ")
-        try:
-            m = int(m)
-            if m == 0:
-                print("Au revoir.")
-                break
-            print(f"\nVoici la table de {5}:\n")
-            table(m)
-        except ValueError:
-            print("N doit être un entier positif.")
+    try:    
+        m = int(input("\nQuelle table voulez vous afficher (0 pour quitter)? "))
+    except ValueError as e:   
+        print("N doit être un entier positif.! - %s" % e)
+    else:
+        if m == 0:
+            print("Au revoir.")
+            break
+        print(f"\nVoici la table de {m}:\n")
+        table(m)
+ 
+            
         
 
 

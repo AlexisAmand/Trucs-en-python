@@ -1,4 +1,4 @@
-# Calcul de la factorielle d'un entier
+ï»¿# Calcul de la factorielle d'un entier
 
 # fonction qui fait le calcul
 
@@ -11,9 +11,15 @@ def factorielle(x):
             facto = facto * i
     return facto
 
-# on demande un entier à l'utilisateur
-# normalement il faut faire une vérification
-# x est-il bien en entier ?
+# on demande un entier Ã  l'utilisateur
 
-x = int(input("Indiquez un entier: "))   
-print(f"La factorielle de {x} est {factorielle(x)}.")
+while True:
+    try:
+        x = int(input("Indiquez un entier (0 pour quitter): "))   
+    except ValueError as e:
+        print("Vous devez choisir un entier positif. - %s" % e)
+    else:
+        if x == 0:
+            print("Au revoir !")
+            break 
+    print(f"La factorielle de {x} est {factorielle(x)}.")

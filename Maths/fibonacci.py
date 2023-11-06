@@ -16,11 +16,17 @@ def fibo(n):
 print("Fibonacci\n")
 print("Ce programme affiche les N premiers termes de la suite de Fibonacci\n\n")
 
-n= int(input("Indiquez une valeur pour N: "))
+while True:         
+        try:
+            n= int(input("Indiquez une valeur pour N (0 pour quitter): "))
+        except ValueError as e:
+            print("Vous devez choisir un entier positif. - %s" % e)
+        else:   
+            if n == 0:
+                print("Au revoir !")
+                break
+            print(f"les {n} premiers termes de la suite de Fibonacci sont:")
 
-print(f"les {n} premiers termes de la suite de Fibonacci sont:")
-
-for i in range (0, n):
-    print(f"{fibo(i)} ", end="")
-
-print()
+            for i in range (0, n):
+                print(f"{fibo(i)} ", end="")
+            print()

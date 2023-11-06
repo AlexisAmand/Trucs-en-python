@@ -1,4 +1,6 @@
 ﻿# La boîte à musique
+# ce programme fait l'objet d'une discussion sur le net :
+# https://tinyurl.com/596tmkyc
 
 import random
 import mido

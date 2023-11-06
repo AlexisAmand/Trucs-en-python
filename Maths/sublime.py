@@ -9,6 +9,9 @@ def somme_diviseur(n):
             somme += i
     return somme 
 
+
+
+
 # fonction qui détermine si N est parfait
 
 def parfait(n):
@@ -17,19 +20,23 @@ def parfait(n):
     else:
         return print(f"{n} n'est pas un nombre sublime !")
 
+
+
+
 # programme principal
 
 print("N est-il un nombre sublime ?\n")
 
 while True:
-        n = input("Indiquer l'entier positif à tester (0 pour quitter): ")
-        try:
-            n = int(n)
-            if n == 0:
-                break
-            parfait(n)            
-        except ValueError:
-            print("N doit être un entier strictement positif.")
+    try:    
+        n = int(input("Indiquer l'entier positif à tester (0 pour quitter): "))
+    except ValueError as e:
+        print("Vous devez indiquer un entier strictement positif ! - %s" % e)
+    else:     
+        if n == 0:
+            print("Au revoir !")
+            break
+        parfait(n)
         
 
 
