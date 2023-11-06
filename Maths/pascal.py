@@ -31,8 +31,8 @@ while True:
                 print(f"{resultat} ", end="")
             print()
         print() 
-    except ValueError:
-        print('Vous devez indiquer un entier !\n')
+    except ValueError as e:
+        print("Vous devez indiquer un entier !- %s" % e)
     
    
 

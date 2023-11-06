@@ -28,6 +28,7 @@ On apprend Python doucement...
 ## Divers
 
 * [Comment raccourcir une url avec Python ?](https://github.com/AlexisAmand/python/blob/master/Divers/pyshort.py)
+* [Générateur de mélodie aléatoire](https://github.com/AlexisAmand/python/blob/master/Divers/generator.py)
 
 ## Les tutos de Graven
 
