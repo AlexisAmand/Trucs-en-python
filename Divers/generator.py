@@ -44,7 +44,6 @@ while True:
         except ValueError as e:
 	        print("Vous devez choisir un entier positif. - %s" % e)
         else:
-            n = int(n)
             if n == 0:
                 print("Au revoir !")
                 break
