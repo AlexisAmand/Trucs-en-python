@@ -1,6 +1,6 @@
 # Trucs en Python
 
-On apprend Python doucement...
+Je me suis enfin décidé à apprendre le Python !
 
 ## Mathématiques
 

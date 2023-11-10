@@ -1,4 +1,5 @@
 # Trouver le PGCD de deux entiers
+# (Méthode 2)
 
 import sys
 import math

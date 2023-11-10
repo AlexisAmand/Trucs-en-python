@@ -8,7 +8,7 @@ C'est par là : https://www.codingame.com/
 
 ### Puzzles
 
-* [Algorithme d'Euclide](https://github.com/AlexisAmand/Mes-trucs-en-python/blob/master/Codingame/euclide.py) (score : 100%)
+* [Euclid's Algorithm](https://github.com/AlexisAmand/Mes-trucs-en-python/blob/master/Codingame/euclide.py) (score : 100%)
 * [Happy Numbers](https://github.com/AlexisAmand/Mes-trucs-en-python/blob/master/Codingame/happy-numbers.py) (score : 100%)
 * [Horse Racing Duals](https://github.com/AlexisAmand/Mes-trucs-en-python/blob/master/Codingame/horse-racing-duals.py) (score : 54%)
 * [Mars Lander épisode 1](https://github.com/AlexisAmand/Mes-trucs-en-python/blob/master/Codingame/mars-lander-ep-01.py) (score : 100%)

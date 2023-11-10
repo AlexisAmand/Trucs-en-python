@@ -1,6 +1,7 @@
 # Fibonacci
 
 # cette fonction calcule le terme de rang n de la suite de Fibonacci
+
 def fibo(n):
     if n == 0:
         return 0

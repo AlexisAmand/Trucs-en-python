@@ -1,4 +1,4 @@
-﻿# puzzle : Happy Numbers
+﻿# Puzzle : Happy Numbers
 
 import sys
 import math

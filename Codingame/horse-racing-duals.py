@@ -1,4 +1,4 @@
-﻿# puzzle : horse-racing-duals
+﻿# Puzzle : Horse Racing Duals
 
 import sys
 import math

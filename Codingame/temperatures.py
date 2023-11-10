@@ -1,4 +1,4 @@
-﻿# puzzle : Temperatures
+﻿# Puzzle : Temperatures
 
 import sys
 import math

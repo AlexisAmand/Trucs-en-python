@@ -1,4 +1,4 @@
-# puzzle : Next Growing Number
+# Puzzle : Next Growing Number
 
 import sys
 import math

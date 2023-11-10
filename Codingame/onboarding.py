@@ -1,4 +1,4 @@
-﻿# puzzle : Onboarding
+﻿# Puzzle : Onboarding
 
 # game loop
 while 1:

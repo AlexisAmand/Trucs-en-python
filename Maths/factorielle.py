@@ -11,7 +11,10 @@ def factorielle(x):
             facto = facto * i
     return facto
 
-# on demande un entier à l'utilisateur
+
+# Programme principal
+# On demande un entier à l'utilisateur
+# Il faut vérifier que x est bien un entier
 
 while True:
     try:

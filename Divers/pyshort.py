@@ -1,4 +1,4 @@
-﻿# Raccourcir une url ?
+﻿# Comment raccourcir une url avec python ?
 
 # dans une console, s'utilise de cette façon :
 # python pyshort.py http://www.monsite.com

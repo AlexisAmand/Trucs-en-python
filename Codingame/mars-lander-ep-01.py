@@ -1,4 +1,4 @@
-﻿# puzzle : Mars Lander - Episode 1
+﻿# Puzzle : Mars Lander - Episode 1
 
 import sys
 import math

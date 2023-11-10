@@ -1,4 +1,4 @@
-﻿# puzzle : Descente
+﻿# Puzzle : Descente
 
 import sys
 import math
