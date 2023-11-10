@@ -9,6 +9,8 @@ On apprend Python doucement...
 * [Calcul de la factorielle d'un nombre](https://github.com/AlexisAmand/python/blob/master/Maths/factorielle.py)
 * [Calcul des N premiers nombres de Fermat](https://github.com/AlexisAmand/python/blob/master/Maths/fermat.py)
 * [Calcul des N premiers termes de la suite de Fibonacci](https://github.com/AlexisAmand/python/blob/master/Maths/fibonacci.py)
+* [Calcul du PGCD (Euclide, exemple 1)](https://github.com/AlexisAmand/python/blob/master/Maths/euclide01.py)
+* [Calcul du PGCD (Euclide, exemple 2)](https://github.com/AlexisAmand/python/blob/master/Maths/euclide02.py)
 * [Déterminer si un entier est premier](https://github.com/AlexisAmand/python/blob/master/Maths/premier.py)
 * [Déterminer si un entier est sublime](https://github.com/AlexisAmand/python/blob/master/Maths/sublime.py)
 * [Le mot est-il un palindrome ?](https://github.com/AlexisAmand/python/blob/master/Maths/palindrome.py)
@@ -17,6 +19,7 @@ On apprend Python doucement...
 * [Liste des diviseurs d'un nombre entier](https://github.com/AlexisAmand/python/blob/master/Maths/diviseurs.py)
 * [Tirage des numéros du Loto](https://github.com/AlexisAmand/python/blob/master/Maths/loto.py)
 * [Une année est-elle bissextile ?](https://github.com/AlexisAmand/python/blob/master/Maths/bissextile.py)
+
 
 ## Jeux
 
