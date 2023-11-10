@@ -11,7 +11,8 @@ Il s'agit d'une adaptation d'un listing en basic paru dans le n°38 de Jeux & St
 ##  Ma config
 
 * Windows 11
-* Visual Studio 17.7.6    
+* Visual Studio 17.7.6 
+* Visual Studio Code 1.84.1   
 * Python 3.12
 * pip 23.3.1
 
