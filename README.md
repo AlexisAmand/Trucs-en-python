@@ -5,7 +5,6 @@ On apprend Python doucement...
 ## Mathématiques
 
 * [Affichage d'une table de multiplication](https://github.com/AlexisAmand/python/blob/master/Maths/table.py)
-* [A quel jour de la semaine correspond une date ?](https://github.com/AlexisAmand/python/blob/master/Maths/jour-semaine.py)
 * [Calcul de la factorielle d'un nombre](https://github.com/AlexisAmand/python/blob/master/Maths/factorielle.py)
 * [Calcul des N premiers nombres de Fermat](https://github.com/AlexisAmand/python/blob/master/Maths/fermat.py)
 * [Calcul des N premiers termes de la suite de Fibonacci](https://github.com/AlexisAmand/python/blob/master/Maths/fibonacci.py)
@@ -14,20 +13,26 @@ On apprend Python doucement...
 * [Calcul du PPCM (avec Euclide et le PGCD)](https://github.com/AlexisAmand/python/blob/master/Maths/ppcm.py)
 * [Déterminer si un entier est premier](https://github.com/AlexisAmand/python/blob/master/Maths/premier.py)
 * [Déterminer si un entier est sublime](https://github.com/AlexisAmand/python/blob/master/Maths/sublime.py)
-* [Deux mots sont-ils des anagrammes ?](https://github.com/AlexisAmand/python/blob/master/Maths/anagramme.py)
-* [Le mot est-il un palindrome ?](https://github.com/AlexisAmand/python/blob/master/Maths/palindrome.py)
 * [Les 4 opérations avec 2 nombres](https://github.com/AlexisAmand/python/blob/master/Maths/4operations.py)
 * [Le triangle de Pascal](https://github.com/AlexisAmand/python/blob/master/Maths/pascal.py)
 * [Liste des diviseurs d'un nombre entier](https://github.com/AlexisAmand/python/blob/master/Maths/diviseurs.py)
 * [Tirage des numéros du Loto](https://github.com/AlexisAmand/python/blob/master/Maths/loto.py)
-* [Une année est-elle bissextile ?](https://github.com/AlexisAmand/python/blob/master/Maths/bissextile.py)
 
+## Jouons avec les dates !
+
+* [A quel jour de la semaine correspond une date ?](https://github.com/AlexisAmand/python/blob/master/Dates/jour-semaine.py)
+* [Une année est-elle bissextile ?](https://github.com/AlexisAmand/python/blob/master/Dates/bissextile.py)
+
+## Jouons avec les mots !
+
+* [Deux mots sont-ils des anagrammes ?](https://github.com/AlexisAmand/python/blob/master/Mots/anagramme.py)
+* [Le mot est-il un palindrome ?](https://github.com/AlexisAmand/python/blob/master/Mots/palindrome.py)
+* [Le jeu du Pendu](https://github.com/AlexisAmand/python/blob/master/Mots/pendu.py)
 
 ## Jeux
 
 * [Jouer à Chifoumi contre l'ordinateur !](https://github.com/AlexisAmand/python/blob/master/Games/chifoumi.py)
 * [Le Gasp](https://github.com/AlexisAmand/python/blob/master/Games/Pygasp)
-* [Le Pendu](https://github.com/AlexisAmand/python/blob/master/Games/pendu.py)
 * [Seras-tu capable de trouver à quel nombre pense l'ordinateur ?](https://github.com/AlexisAmand/python/blob/master/Games/FindTheNumber.py)
 
 ## Divers
