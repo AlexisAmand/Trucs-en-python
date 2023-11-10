@@ -14,6 +14,7 @@ On apprend Python doucement...
 * [Calcul du PPCM (avec Euclide et le PGCD)](https://github.com/AlexisAmand/python/blob/master/Maths/ppcm.py)
 * [Déterminer si un entier est premier](https://github.com/AlexisAmand/python/blob/master/Maths/premier.py)
 * [Déterminer si un entier est sublime](https://github.com/AlexisAmand/python/blob/master/Maths/sublime.py)
+* [Deux mots sont-ils des anagrammes ?](https://github.com/AlexisAmand/python/blob/master/Maths/anagramme.py)
 * [Le mot est-il un palindrome ?](https://github.com/AlexisAmand/python/blob/master/Maths/palindrome.py)
 * [Les 4 opérations avec 2 nombres](https://github.com/AlexisAmand/python/blob/master/Maths/4operations.py)
 * [Le triangle de Pascal](https://github.com/AlexisAmand/python/blob/master/Maths/pascal.py)
