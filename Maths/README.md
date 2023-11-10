@@ -9,6 +9,7 @@ On apprend Python doucement...
 * [Calcul des N premiers termes de la suite de Fibonacci](https://github.com/AlexisAmand/python/blob/master/Maths/fibonacci.py)
 * [Calcul du PGCD (Euclide, exemple 1)](https://github.com/AlexisAmand/python/blob/master/Maths/euclide01.py)
 * [Calcul du PGCD (Euclide, exemple 2)](https://github.com/AlexisAmand/python/blob/master/Maths/euclide02.py)
+* [Calcul du PPCM (avec Euclide et le PGCD)](https://github.com/AlexisAmand/python/blob/master/Maths/ppcm.py)
 * [Déterminer si un entier est premier](https://github.com/AlexisAmand/python/blob/master/Maths/premier.py)
 * [Déterminer si un entier est sublime](https://github.com/AlexisAmand/python/blob/master/Maths/sublime.py)
 * [Le mot est-il un palindrome ?](https://github.com/AlexisAmand/python/blob/master/Maths/palindrome.py)
