@@ -23,6 +23,10 @@ C'est par là : https://www.codingame.com/
 * [Temperatures](https://github.com/AlexisAmand/Mes-trucs-en-python/blob/master/Codingame/temperatures-codesize.py) (score : 100%, 229 caratères)
 * [The Descent](https://github.com/AlexisAmand/Mes-trucs-en-python/blob/master/Codingame/descente-codesize.py) (score : 100%, 179 caratères)
 
+### Contributions
+
+* [Contribution du 13/11/2023](https://github.com/AlexisAmand/Mes-trucs-en-python/blob/master/Codingame/contrib_01.py) (mode reverse)
+
 ##  Ma config
 
 * Windows 11
