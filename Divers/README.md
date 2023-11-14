@@ -6,6 +6,7 @@ On apprend Python doucement...
 
 * [Comment raccourcir une url avec Python ?](https://github.com/AlexisAmand/python/blob/master/Divers/pyshort.py)
 * [Générateur de mélodie aléatoire](https://github.com/AlexisAmand/python/blob/master/Divers/generator.py)
+* [Générateur de mots de passe aléatoires](https://github.com/AlexisAmand/python/blob/master/Divers/password-generator.py)
 
 ##  Ma config
 
