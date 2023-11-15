@@ -4,9 +4,6 @@
 a = int(input())
 b = int(input())
 
-sum = 0
-
-for i in range(b):
-    sum += i
+c = a * b * (b - 1) / 2
     
-print(sum*a)
+print(int(c))
