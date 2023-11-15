@@ -9,6 +9,7 @@ On apprend Python doucement...
 * [Calcul du PGCD (Euclide, exemple 1)](https://github.com/AlexisAmand/python/blob/master/Maths/euclide01.py)
 * [Calcul du PGCD (Euclide, exemple 2)](https://github.com/AlexisAmand/python/blob/master/Maths/euclide02.py)
 * [Calcul du PPCM (avec Euclide et le PGCD)](https://github.com/AlexisAmand/python/blob/master/Maths/ppcm.py)
+* [Numerus Romanus : conversion des nombres arabes en nombres romains](https://github.com/AlexisAmand/python/blob/master/Maths/numerus-romanus.py)
 * [Déterminer si un entier est premier](https://github.com/AlexisAmand/python/blob/master/Maths/premier.py)
 * [Déterminer si un entier est sublime](https://github.com/AlexisAmand/python/blob/master/Maths/sublime.py)
 * [Les 4 opérations avec 2 nombres](https://github.com/AlexisAmand/python/blob/master/Maths/4operations.py)
