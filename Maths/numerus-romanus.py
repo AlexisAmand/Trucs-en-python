@@ -1,5 +1,5 @@
 ﻿# Les chiffres romains
-# (c)1985 MICROTOM ET F.J. BAYARD
+# (c)1985 MICROTOM n°4 ET F.J. BAYARD
 # Conversion d'un script initialement écrit en Basic
 
 # Chiffres romains
