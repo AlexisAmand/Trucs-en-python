@@ -43,6 +43,12 @@ Je me suis enfin décidé à apprendre le Python !
 * [Générateur de mélodie aléatoire](https://github.com/AlexisAmand/python/blob/master/Divers/generator.py)
 * [Générateur de mots de passe aléatoires](https://github.com/AlexisAmand/python/blob/master/Divers/password-generator.py)
 
+## Hackinscience
+
+La plateforme HackInScience est une plateforme d'entrainement libre, sans publicité et open-source (dépôt sur framagit), par une équipe de passionnés du langage Python. Je vous propose sur cette page mes solutions à leurs exercices.
+
+* [Mes réponses à leurs exercices](https://github.com/AlexisAmand/python/tree/master/Hackinscience)
+
 ## Les tutos de Graven
 
 * [Sa chaine Youtube](https://www.youtube.com/@Gravenilvectuto)
