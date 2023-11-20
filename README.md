@@ -22,6 +22,7 @@ Je me suis enfin décidé à apprendre le Python !
 ## Jouons avec les dates !
 
 * [A quel jour de la semaine correspond une date ?](https://github.com/AlexisAmand/python/blob/master/Dates/jour-semaine.py)
+* [Calendrier perpétuel](https://github.com/AlexisAmand/python/blob/master/Dates/calendar.py)
 * [Une année est-elle bissextile ?](https://github.com/AlexisAmand/python/blob/master/Dates/bissextile.py)
 
 ## Jouons avec les mots !
@@ -62,7 +63,7 @@ Vous pouvez retrouver sur cette page toutes mes tentatives de réponses aux exer
 ##  Ma config
 
 * Windows 11
-* Visual Studio 17.7.6    
+* Visual Studio 17.8   
 * Visual Studio Code 1.84.1
 * Python 3.12
 * pip 23.3.1
