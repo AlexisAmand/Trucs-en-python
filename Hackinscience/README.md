@@ -24,6 +24,8 @@ La plateforme HackInScience est une plateforme d'entrainement libre, sans public
 * [18. Afficher toutes les paires de lettres différentes](https://github.com/AlexisAmand/python/blob/master/Hackinscience/exercice-18.py)
 * [19. Le mot le plus long](https://github.com/AlexisAmand/python/blob/master/Hackinscience/exercice-19.py)]
 * [20. Afficher des parfums de sorbets](https://github.com/AlexisAmand/python/blob/master/Hackinscience/exercice-20.py)]
+* [20. Afficher les paramètres](https://github.com/AlexisAmand/python/blob/master/Hackinscience/exercice-21.py)]
+
 
 ##  Ma config
 
