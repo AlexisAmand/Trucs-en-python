@@ -28,27 +28,27 @@ La plateforme HackInScience est une plateforme d'entrainement libre, sans public
 
 ## Python — Réaliste
 
-* [1. Le mot le plus long](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Realiste/exercice-01.py)]
-* [2. Afficher des parfums de sorbets](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Realiste/exercice-02.py)]
-* [3. Aimer les ensembles](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Realiste/exercice-03.py)]
-* [4. Trier les étudiants](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Realiste/exercice-04.py)]
-* [5. Du romain au décimal](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Realiste/exercice-05.py)]
-* [6. Choisir des étudiants](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Realiste/exercice-06.py)]
+* [1. Le mot le plus long](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Realiste/exercice-01.py)
+* [2. Afficher des parfums de sorbets](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Realiste/exercice-02.py)
+* [3. Aimer les ensembles](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Realiste/exercice-03.py)
+* [4. Trier les étudiants](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Realiste/exercice-04.py)
+* [5. Du romain au décimal](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Realiste/exercice-05.py)
+* [6. Choisir des étudiants](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Realiste/exercice-06.py)
 
 ## Python en ligne de commande
 
-* [1. Afficher les paramètres](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Commande/exercice-01.py)]
-* [2. Afficher le premier paramètre](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Commande/exercice-02.py)]
-* [3. Petit additionneur](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Commande/exercice-03.py)]
-* [4. Calculette](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Commande/exercice-03.py)]
+* [1. Afficher les paramètres](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Commande/exercice-01.py)
+* [2. Afficher le premier paramètre](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Commande/exercice-02.py)
+* [3. Petit additionneur](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Commande/exercice-03.py)
+* [4. Calculette](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Commande/exercice-03.py)
 
 ## Python — Entraînement
 
-* [1. Distance](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Entrainement/exercice-01.py)]
-* [2. Ce nombre est-il premier ?](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Entrainement/exercice-02.py)]
-* [3. Somme des premiers inférieurs à n](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Entrainement/exercice-03.py)]
-* [4. Afficher tous les premiers d'un intervalle](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Entrainement/exercice-04.py)]
-* [5. Nombre premier suivant](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Entrainement/exercice-05.py)]
+* [1. Distance](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Entrainement/exercice-01.py)
+* [2. Ce nombre est-il premier ?](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Entrainement/exercice-02.py)
+* [3. Somme des premiers inférieurs à n](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Entrainement/exercice-03.py)
+* [4. Afficher tous les premiers d'un intervalle](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Entrainement/exercice-04.py)
+* [5. Nombre premier suivant](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Entrainement/exercice-05.py)
 
 ##  Ma config
 
