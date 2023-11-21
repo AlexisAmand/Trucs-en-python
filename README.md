@@ -45,7 +45,7 @@ Je me suis enfin décidé à apprendre le Python !
 
 ## Hackinscience
 
-La plateforme HackInScience est une plateforme d'entrainement libre, sans publicité et open-source (dépôt sur framagit), par une équipe de passionnés du langage Python. Je vous propose sur cette page mes solutions à leurs exercices.
+[HackInScience](https://www.hackinscience.org/) est une plateforme d'entrainement libre, sans publicité et open-source (dépôt sur framagit), par une équipe de passionnés du langage Python. Je vous propose sur cette page mes solutions à leurs exercices.
 
 * [Mes réponses à leurs exercices](https://github.com/AlexisAmand/python/tree/master/Hackinscience)
 
