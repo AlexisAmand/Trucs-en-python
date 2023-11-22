@@ -25,6 +25,15 @@ Je me suis enfin décidé à apprendre le Python !
 * [17. Afficher toutes les paires de lettres](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Bases/exercice-17.py)
 * [18. Afficher toutes les paires de lettres différentes](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Bases/exercice-18.py)
 
+## Python — Entraînement
+
+* [1. Distance](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Entrainement/exercice-01.py)
+* [2. Ce nombre est-il premier ?](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Entrainement/exercice-02.py)
+* [3. Somme des premiers inférieurs à n](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Entrainement/exercice-03.py)
+* [4. Afficher tous les premiers d'un intervalle](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Entrainement/exercice-04.py)
+* [5. Nombre premier suivant](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Entrainement/exercice-05.py)
+* [7. Les exceptions](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Entrainement/exercice-07.py)
+
 ## Python — Réaliste
 
 * [1. Le mot le plus long](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Realiste/exercice-01.py)
@@ -41,18 +50,10 @@ Je me suis enfin décidé à apprendre le Python !
 * [3. Petit additionneur](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Commande/exercice-03.py)
 * [4. Calculette](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Commande/exercice-03.py)
 
-## Python — Entraînement
-
-* [1. Distance](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Entrainement/exercice-01.py)
-* [2. Ce nombre est-il premier ?](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Entrainement/exercice-02.py)
-* [3. Somme des premiers inférieurs à n](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Entrainement/exercice-03.py)
-* [4. Afficher tous les premiers d'un intervalle](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Entrainement/exercice-04.py)
-* [5. Nombre premier suivant](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Entrainement/exercice-05.py)
-
 ##  Ma config
 
 * Windows 11
-* Visual Studio 17.8   
+* Visual Studio 17.8.1   
 * Visual Studio Code 1.84.1
 * Python 3.12
 * pip 23.3.1
