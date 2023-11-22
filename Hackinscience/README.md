@@ -33,7 +33,7 @@ Je me suis enfin décidé à apprendre le Python !
 * [4. Afficher tous les premiers d'un intervalle](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Entrainement/exercice-04.py)
 * [5. Nombre premier suivant](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Entrainement/exercice-05.py)
 * [7. Les exceptions](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Entrainement/exercice-07.py)
-
+* [8. Afficher la date et l'heure](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Entrainement/exercice-08.py)
 ## Python — Réaliste
 
 * [1. Le mot le plus long](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Realiste/exercice-01.py)
