@@ -32,8 +32,16 @@ Je me suis enfin décidé à apprendre le Python !
 * [3. Somme des premiers inférieurs à n](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Entrainement/exercice-03.py)
 * [4. Afficher tous les premiers d'un intervalle](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Entrainement/exercice-04.py)
 * [5. Nombre premier suivant](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Entrainement/exercice-05.py)
+* [6. La suite de Fibonacci](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Entrainement/exercice-06.py) (en cours)
 * [7. Les exceptions](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Entrainement/exercice-07.py)
 * [8. Afficher la date et l'heure](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Entrainement/exercice-08.py)
+* [9. Afficher le contenu d'un fichier](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Entrainement/exercice-09.py)
+* [10. Les nombres pernicieux](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Entrainement/exercice-10.py)
+* [11. Produit d'un itérable](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Entrainement/exercice-11.py)
+* [12. Compter les « e » dans un fichier](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Entrainement/exercice-12.py)
+* [13. Est-il divisible par… ?](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Entrainement/exercice-13.py)
+* [14. Fréquence de lettres dans un fichier](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Entrainement/exercice-14.py)
+
 ## Python — Réaliste
 
 * [1. Le mot le plus long](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Realiste/exercice-01.py)
@@ -59,6 +67,7 @@ Je me suis enfin décidé à apprendre le Python !
 * pip 23.3.1
 
 ## Cette page vous a été utile ?
+
 Pourquoi pas me remercier en m'offrant un café ?
 
 <a href="https://www.buymeacoffee.com/alexisamand" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="210" ></a>
