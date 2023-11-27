@@ -24,6 +24,7 @@ Je me suis enfin décidé à apprendre le Python !
 * [16. Températures](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Bases/exercice-16.py)
 * [17. Afficher toutes les paires de lettres](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Bases/exercice-17.py)
 * [18. Afficher toutes les paires de lettres différentes](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Bases/exercice-18.py)
+* [21. Triangle de Pascal](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Bases/exercice-21.py)* 
 
 ## Python — Entraînement
 
@@ -41,6 +42,9 @@ Je me suis enfin décidé à apprendre le Python !
 * [12. Compter les « e » dans un fichier](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Entrainement/exercice-12.py)
 * [13. Est-il divisible par… ?](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Entrainement/exercice-13.py)
 * [14. Fréquence de lettres dans un fichier](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Entrainement/exercice-14.py)
+* [15. Faire des requêtes HTTP](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Entrainement/exercice-15.py)
+* [16. Le plus gros produit d'une suite](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Entrainement/exercice-16.py)
+* [18. La plus longue séquence de Collatz](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Entrainement/exercice-18.py)
 
 ## Python — Réaliste
 
