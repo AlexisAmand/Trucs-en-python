@@ -54,6 +54,7 @@ Je me suis enfin décidé à apprendre le Python !
 * [4. Trier les étudiants](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Realiste/exercice-04.py)
 * [5. Du romain au décimal](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Realiste/exercice-05.py)
 * [6. Choisir des étudiants](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Realiste/exercice-06.py)
+* [7. Vendredi 13](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Realiste/exercice-07.py)
 
 ## Python en ligne de commande
 
