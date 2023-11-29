@@ -37,6 +37,13 @@ Je me suis enfin décidé à apprendre le Python !
 * [Le Gasp](https://github.com/AlexisAmand/python/blob/master/Games/Pygasp)
 * [Seras-tu capable de trouver à quel nombre pense l'ordinateur ?](https://github.com/AlexisAmand/python/blob/master/Games/FindTheNumber.py)
 
+## Les algos de tri
+
+* [Le tri à bulles](https://github.com/AlexisAmand/python/blob/master/Tris/tri-bulles.py)
+* [Le tri par extraction](https://github.com/AlexisAmand/python/blob/master/Tris/tri-extraction.py)
+* [Le tri par insertion](https://github.com/AlexisAmand/python/blob/master/Tris/tri-insertion.py)
+* [Le tri par Tournoi](https://github.com/AlexisAmand/python/blob/master/Tris/tri-tournoi.py)
+
 ## Divers
 
 * [Comment raccourcir une url avec Python ?](https://github.com/AlexisAmand/python/blob/master/Divers/pyshort.py)
@@ -49,22 +56,16 @@ Je me suis enfin décidé à apprendre le Python !
 
 * [Mes réponses à leurs exercices](https://github.com/AlexisAmand/python/tree/master/Hackinscience)
 
-## Les tutos de Graven
-
-* [Sa chaine Youtube](https://www.youtube.com/@Gravenilvectuto)
-* [Mes réponses à ses tps](https://github.com/AlexisAmand/python/tree/master/TP%20Graven)
-
 ## Codingame
 
 Vous pouvez retrouver sur cette page toutes mes tentatives de réponses aux défis proposés sur le site codingame !
 
 * [Mes défis Python via Codingame](https://github.com/AlexisAmand/Mes-trucs-en-python/tree/master/Codingame)
 
-## Développez.com
+## Les tutos de Graven
 
-Vous pouvez retrouver sur cette page toutes mes tentatives de réponses aux exercices proposés sur le site developpez.com dans le cadre de leur cours sur Python. Le monde de Python est tout nouveau pour moi, n'hésitez pas à me contacter si vous avez une remarque ou une question à propos de mes petits codes sources.
-
-* [Mes solutions à leurs exos sur Python](https://github.com/AlexisAmand/python/tree/master/DeveloppezCom)
+* [Sa chaine Youtube](https://www.youtube.com/@Gravenilvectuto)
+* [Mes réponses à ses tps](https://github.com/AlexisAmand/python/tree/master/TP%20Graven)
 
 ##  Ma config
 
