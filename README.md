@@ -40,9 +40,10 @@ Je me suis enfin décidé à apprendre le Python !
 ## Les algos de tri
 
 * [Le tri à bulles](https://github.com/AlexisAmand/python/blob/master/Tris/tri-bulles.py)
-* [Le tri par extraction](https://github.com/AlexisAmand/python/blob/master/Tris/tri-extraction.py)
+* [Le tri pair-impair](https://github.com/AlexisAmand/python/blob/master/Tris/tri-pair-impair.py)
+* [Le tri par extraction](https://github.com/AlexisAmand/python/blob/master/Tris/tri-extraction.py) (ou tri par sélection)
 * [Le tri par insertion](https://github.com/AlexisAmand/python/blob/master/Tris/tri-insertion.py)
-* [Le tri par Tournoi](https://github.com/AlexisAmand/python/blob/master/Tris/tri-tournoi.py)
+* [Le tri par tournoi](https://github.com/AlexisAmand/python/blob/master/Tris/tri-tournoi.py)
 
 ## Divers
 
