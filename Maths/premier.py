@@ -1,20 +1,19 @@
 ﻿# Un nombre est-il premier ?
 
-# J'ai adapté mon script qui recherche les divisieurs
-
-def diviseurs(x):
-    divs = list()
-    for i in range (1, x+1):
-        if x%i == 0:
-            divs.append(i)
-    return divs
+# La fonction qui fait le boulot
+ 
+def is_prime(n):
+    if n <= 1:
+        return False
+    for i in range(2, int(n ** 0.5) + 1):
+        if n % i == 0:
+            return False
+    return True
 
 
 
 # On demande un entier à l'utilisateur
 # Il faut vérifier que x est bien une série de chiffres avec isdigit()
-
-# Un nombre N est premier s'il a uniquement 2 diviseurs : 1 et N
         
 while True:
     try:
@@ -26,7 +25,7 @@ while True:
             print('fin du programme.\n')
             break
         
-        if len(diviseurs(int(x))) == 2:
+        if is_prime(x):
             print(f"{x} est premier !")
         else:
             print(f"{x} n'est pas premier !")  
