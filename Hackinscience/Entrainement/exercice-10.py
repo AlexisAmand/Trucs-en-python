@@ -12,15 +12,12 @@ def is_prime(n):
         
 
 # Affiche les pernicieux sur un interval donné
+# Il s'agit de la 2e version de la fonction
+# dans la première, il y avait un for et une variable qui s'incrémentait pour chaque i rencontré.
 
 def pernicieux(a, b):
-    for i in range(a, b):
-        count = 0
-        i_binaire = bin(i)
-        i_binaire_sans_b = i_binaire[2:]
-        for k in i_binaire_sans_b:
-            if k == "1":
-                count += 1
+    for i in range(a, b):        
+        count = bin(i).count("1")
         if is_prime(count):
             print(i)
 
