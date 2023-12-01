@@ -1,12 +1,14 @@
 ﻿# Tri à bulles
 # (adapté d'un programme en Pascal)
 
-# Une liste pour exemple
-# j'ai choisi des mots, mais ça fonctionne avec des entiers
+# il existe une fonction native sorted() qui construit une nouvelle liste triée
+# mais c'est moins drôle !
 
-a_list = ["chat", "hibou", "hamster", "chien", "rat", "cheval", "pie", "moineau"]
+# Une liste de 15 éléments pour tester
 
-# On affiche la liste telle est à origine
+a_list = ["chat", "hibou", "coq", "hamster", "chien", "rat", "cheval", "pie", "moineau", "lapin", "abeille", "canard", "vache", "mouton", "poule"]
+
+# On affiche la liste d'origine
 
 print("La liste de départ:")
 print(a_list)
@@ -18,7 +20,7 @@ for i in range(len(a_list),1,-1):
         if a_list[j] > a_list[j+1]:            
             a_list[j], a_list[j+1] = a_list[j+1], a_list[j]
 
-# On affiche le tableau final
+# On affiche la liste triée
 
 print("La liste triée avec un tri à bulles:")
 print(a_list)

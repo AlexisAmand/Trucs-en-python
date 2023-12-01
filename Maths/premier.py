@@ -1,6 +1,6 @@
 ﻿# Un nombre est-il premier ?
 
-# La fonction qui fait le boulot
+# La fonction retourne true/false selon si n est premier ou non
  
 def is_prime(n):
     if n <= 1:

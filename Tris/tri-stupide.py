@@ -1,27 +1,31 @@
-﻿# Tri par insertion
-# (adapté d'un programme en Pascal)
+﻿# Tri stupide
+# (adapté de l'article dispo sur Wikipedia)
 
 # il existe une fonction native sorted() qui construit une nouvelle liste triée
 # mais c'est moins drôle !
 
+from random import shuffle
+
 # Une liste de 15 éléments pour tester
 
 a_list = ["chat", "hibou", "coq", "hamster", "chien", "rat", "cheval", "pie", "moineau", "lapin", "abeille", "canard", "vache", "mouton", "poule"]
+
+# cette fonction vérifie si la liste est triée 
+
+def est_triee(liste):
+    return all(a_list[i] <= a_list[i + 1] for i in range(len(a_list) - 1))
 
 # On affiche la liste d'origine
 
 print("La liste de départ:")
 print(a_list)
 
-# On fait le tri par insertion
+# On fait le tri stupide
 
-for i in range(2,len(a_list)):
-    j = i - 1
-    while j > 0 and a_list[j] > a_list[j + 1]:
-        a_list[j], a_list[j + 1] = a_list[j + 1], a_list[j]
-        j = j - 1
-        
+while not est_triee(a_list):
+    shuffle(a_list)
+            
 # On affiche la liste triée
 
-print("La liste triée avec un tri par insertion:")
+print("La liste triée avec un tri stupide:")
 print(a_list)

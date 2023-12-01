@@ -10,8 +10,6 @@ def somme_diviseur(n):
     return somme 
 
 
-
-
 # fonction qui détermine si N est parfait
 
 def parfait(n):
@@ -19,8 +17,6 @@ def parfait(n):
         return print(f"{n} est un nombre sublime !")
     else:
         return print(f"{n} n'est pas un nombre sublime !")
-
-
 
 
 # programme principal

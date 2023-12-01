@@ -7,7 +7,7 @@ words = ["chat", "chien", "oiseaux", "rat", "pigeon", "lapin", "lion", "souris",
 life = 6
 coup = 0
 
-# Loading the lowercase alphabet to a list
+# on récupére une liste avec les lettres de a à z
 alphabet = list(string.ascii_lowercase)
 
 # on tire un mot au hasard parmi ceux de la liste

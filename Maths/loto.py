@@ -1,6 +1,7 @@
 ﻿# tirage du loto
 
-# Depuis 2008, il faut désormais obtenir cinq numéros parmi 49, plus un « numéro chance » parmi dix.
+# Depuis 2008, il faut désormais obtenir cinq numéros parmi 49
+# plus un « numéro chance » parmi dix.
 
 import random
 

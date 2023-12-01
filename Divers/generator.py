@@ -32,8 +32,8 @@ def playnotes(notes, instrument_number):
 print("La boite à musique\n")
 print("Indiquez juste un nombre de notes, et l'ordinateur va générer une petite mélodie aléatoire dans un fichier MIDI.\n")
 
-# un n° de note MIDI et un nombre entre 0 et 128
-# chaque note sera donc un nombre aléatoire entre 0 et 128 mis dans une liste
+# un n° de note MIDI est un nombre entre 0 et 127
+# chaque note sera donc un nombre aléatoire entre 0 et 127 mis dans une liste
 
 notes_to_play = []
 

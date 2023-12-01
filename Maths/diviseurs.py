@@ -1,11 +1,16 @@
 # Liste des diviseurs d'un entier
 
+# cette fonction cherche les diviseurs et les met dans une liste
+
 def diviseurs(x):
     divs = list()
     for i in range (1, x+1):
         if x%i == 0:
             divs.append(i)
     return divs
+
+
+# programme principal
         
 while True:
     try:

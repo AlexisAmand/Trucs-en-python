@@ -5,7 +5,6 @@ import sys
 import math
 
 # L'algo d'Euclide !
-# Il y a plus simple, on pourait juste faire return euclide(b, a % b) sans le while !
 
 def euclide(a, b):
     if b == 0:
@@ -14,7 +13,7 @@ def euclide(a, b):
 
         
 
-# Progamme principale
+# Progamme principal
 
 print("Trouvons le PGCD de deux entiers !")
 

@@ -5,6 +5,7 @@ import math
 
 # Une formule dit : ppcm(a, b) = |ab| / PGCD(a,b)
 # Cette fonction calcul donc le PGCD
+
 def pgcd(a, b):
     if b == 0:
         return a

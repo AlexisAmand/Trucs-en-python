@@ -3,7 +3,7 @@
 import sys
 import math
 
-# note : un théorême dit que quelque soit le nombre entier strictement positif de départ, 
+# note : un théorème dit que quelque soit le nombre entier strictement positif de départ, 
 # en calculant successivement la somme des carrés des chiffres, on atteint nécessairement 1 ou 4
 
 n = int(input())

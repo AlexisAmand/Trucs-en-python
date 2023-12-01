@@ -19,13 +19,12 @@ def affair_meet(bob, alice, silvester):
     return r3
 
 
-# alice = ['II', 'IV', 'II', 'XIX', 'XV', 'IV', 'II']
-# bob = ['IV', 'III', 'II', 'XX', 'II', 'XX']
-# silvester = ['ⅩVⅢ', 'XIX', 'Ⅲ', 'Ⅰ', 'Ⅲ', 'ⅩVⅢ']
 
-alice = ['I', 'II', 'III']
-bob = ['I', 'II']
-silvester = ['II', 'III']
+# pour les tests
+
+alice = ['II', 'IV', 'II', 'XIX', 'XV', 'IV', 'II']
+bob = ['IV', 'III', 'II', 'XX', 'II', 'XX']
+silvester = ['ⅩVⅢ', 'XIX', 'Ⅲ', 'Ⅰ', 'Ⅲ', 'ⅩVⅢ']
 
 print(love_meet(bob, alice))
 print(affair_meet(bob, alice, silvester))

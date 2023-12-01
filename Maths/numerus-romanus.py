@@ -8,6 +8,7 @@ romans = ["M", "CM", "D", "CD", "C", "XC", "L", "XL", "X", "IX", "V", "IV", "I"]
 # Équivalents arabes
 arabes = [1000, 900, 500, 400, 100, 90, 50, 40, 10, 9, 5, 4, 1]
 
+# fonction qui fait le boulot !
 def convertir_romain(arabe):
     res_romain = ""
     c = 0
@@ -26,7 +27,6 @@ def convertir_romain(arabe):
 print("Numerus Romanus")
 print("(c) 1985 MICROTHOM et F.J. Bayard")
 print("conversion en python réalisée par A. Amand\n")
-
 
 while True:
     try:

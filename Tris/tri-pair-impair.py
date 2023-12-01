@@ -1,12 +1,14 @@
 ﻿# Tri pair-impair
 # (adapté de l'article dispo sur Wikipedia)
 
-# Une liste pour exemple
-# j'ai choisi des mots, mais ça fonctionne avec des entiers
+# il existe une fonction native sorted() qui construit une nouvelle liste triée
+# mais c'est moins drôle !
 
-a_list = ["chat", "hibou", "hamster", "chien", "rat", "cheval", "pie", "moineau"]
+# Une liste de 15 éléments pour tester
 
-# On affiche la liste telle est à origine
+a_list = ["chat", "hibou", "coq", "hamster", "chien", "rat", "cheval", "pie", "moineau", "lapin", "abeille", "canard", "vache", "mouton", "poule"]
+
+# On affiche la liste d'origine
 
 print("La liste de départ:")
 print(a_list)
@@ -21,7 +23,7 @@ for i in range(1,len(a_list) - 1):
         if a_list[x] > a_list[x+1]:
             a_list[x], a_list[x+1] = a_list[x+1], a_list[x]
             
-# On affiche le tableau final
+# On affiche la liste triée
 
 print("La liste triée avec un tri pair-impair:")
 print(a_list)

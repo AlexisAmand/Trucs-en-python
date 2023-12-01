@@ -1,6 +1,7 @@
 ﻿# A quel jour de la semaine correspond une date ?
 
 # Ce programme utilise l'algorithme de Mike Keith
+# Il y a date.weekday() qui fait très bien le boulot
 
 # On demande une date...
 date = input("Entrez une date (JJ/MM/AAAA): ")

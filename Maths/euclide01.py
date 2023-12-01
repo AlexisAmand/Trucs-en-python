@@ -15,7 +15,7 @@ def euclide(a, b):
 
         
 
-# Progamme principale
+# Progamme principal
 
 print("Trouvons le PGCD de deux entiers !")
 

@@ -10,7 +10,6 @@ def anagramme(a, b):
 
 
 
-
 # Programme principal
 print("Vérifions si deux mots sont des anagrammes !\n")
 
