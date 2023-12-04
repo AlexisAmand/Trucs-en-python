@@ -1,5 +1,5 @@
-# Trouver le PGCD de deux entiers
-# (M�thode 1)
+﻿# Trouver le PGCD de deux entiers
+# (Méthode 1)
 
 import sys
 import math
@@ -8,12 +8,8 @@ import math
 
 def euclide(a, b):
     while b != 0:
-        t = b
-        b = a % b
-        a = t
-    return a
-
-        
+        a, b = b, a % b
+    return a        
 
 # Progamme principal
 

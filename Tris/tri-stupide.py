@@ -9,6 +9,7 @@ from random import shuffle
 # Une liste de 15 éléments pour tester
 
 a_list = ["chat", "hibou", "coq", "hamster", "chien", "rat", "cheval", "pie", "moineau", "lapin", "abeille", "canard", "vache", "mouton", "poule"]
+i = 0
 
 # cette fonction vérifie si la liste est triée 
 
@@ -24,6 +25,9 @@ print(a_list)
 
 while not est_triee(a_list):
     shuffle(a_list)
+    # pour le fun, on affiche le nombre d'essais
+    i+=1
+    print(i)
             
 # On affiche la liste triée
 

@@ -23,21 +23,6 @@ while pos < len(a_list):
         a_list[pos], a_list[pos-1] = a_list[pos-1], a_list[pos]
         pos = pos - 1
 
-
-
-
-
-'''
-procedure gnomeSort(a[]):
-    pos := 0
-    while pos < length(a):
-        if (pos == 0 or a[pos] >= a[pos-1]):
-            pos := pos + 1
-        else:
-            swap a[pos] and a[pos-1]
-            pos := pos - 1
-'''
-
 # On affiche la liste triée
 
 print("La liste triée avec un tri gnome:")
