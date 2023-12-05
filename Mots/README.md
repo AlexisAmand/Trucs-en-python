@@ -3,6 +3,7 @@
 On apprend Python doucement...
 
 * [Deux mots sont-ils des anagrammes ?](https://github.com/AlexisAmand/python/blob/master/Mots/anagramme.py)
+* [Le chiffre de César](https://github.com/AlexisAmand/python/blob/master/Mots/cesar.py) (En cours)
 * [Le mot est-il un palindrome ?](https://github.com/AlexisAmand/python/blob/master/Mots/palindrome.py)
 * [Le jeu du Pendu](https://github.com/AlexisAmand/python/blob/master/Mots/pendu.py)
 
