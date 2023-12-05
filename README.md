@@ -75,7 +75,7 @@ Vous pouvez retrouver sur cette page toutes mes tentatives de réponses aux déf
 ##  Ma config
 
 * Windows 11
-* Visual Studio 17.8.1   
+* Visual Studio 17.8.2
 * Visual Studio Code 1.84.2
 * Python 3.12
 * pip 23.3.1
