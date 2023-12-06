@@ -24,7 +24,7 @@ Je me suis enfin décidé à apprendre le Python !
 * [16. Températures](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Bases/exercice-16.py)
 * [17. Afficher toutes les paires de lettres](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Bases/exercice-17.py)
 * [18. Afficher toutes les paires de lettres différentes](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Bases/exercice-18.py)
-* [21. Triangle de Pascal](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Bases/exercice-21.py)* 
+* [21. Triangle de Pascal](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Bases/exercice-21.py)
 
 ## Python — Entraînement
 
@@ -55,6 +55,7 @@ Je me suis enfin décidé à apprendre le Python !
 * [5. Du romain au décimal](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Realiste/exercice-05.py)
 * [6. Choisir des étudiants](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Realiste/exercice-06.py)
 * [7. Vendredi 13](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Realiste/exercice-07.py)
+* [8. La carte manquante](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Realiste/exercice-08.py)
 
 ## Python en ligne de commande
 
