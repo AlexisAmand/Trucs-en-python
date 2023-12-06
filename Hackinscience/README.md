@@ -56,6 +56,7 @@ Je me suis enfin décidé à apprendre le Python !
 * [6. Choisir des étudiants](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Realiste/exercice-06.py)
 * [7. Vendredi 13](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Realiste/exercice-07.py)
 * [8. La carte manquante](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Realiste/exercice-08.py)
+* [11. Monnnaie](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Realiste/exercice-11.py)
 
 ## Python en ligne de commande
 
