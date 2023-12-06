@@ -9,18 +9,27 @@ def missing_card(cards):
     couleur = ["S", "H", "D", "C"]
     valeur = ["2", "3", "4", "5", "6", "7", "8", "9", "10", "J", "Q", "K", "A"]
     cartes = []
-
+    
+    '''
+    # la ligne qui suit correspond à ceci :
     for c in couleur:
         for v in valeur:
             cartes.append(c+v)
+    '''
     
-    # on cherche la carte manquante
-    
+    [cartes.append(c+v) for c in couleur for v in valeur]
+
+    # on cherche la carte manquante   
+
+    '''
+    # les 2 lignes qui suivent correspondent à ceci :
     for i in cartes:
         if i not in cards:
             return i
-
-
+    '''
+    
+    resultat = next(i for i in cartes if i not in cards)
+    return resultat
 
 # pour les tests
 
