@@ -26,34 +26,47 @@ euler = [
        [1, 70, 54, 71, 83, 51, 54, 69, 16, 92, 33, 48, 61, 43, 52, 1, 89, 19, 67, 48]
        ]
 
-max_euler = 0
+# le max produits en diagonal dans le sens 1
+def diagonal_1(euler):
+    max_euler = 0
+    for y in range(17):
+        for x in range(17):
+            produit = euler[y][x] * euler[y + 1][x + 1] * euler[y + 2][x + 2] * euler[y + 3][x + 3]
+            if produit > max_euler:
+                max_euler = produit
+    return max_euler
+                
+# le max produits en diagonal dans le sens 2
+def diagonal_2(euler):
+    max_euler = 0
+    for y in range(3, 20):
+        for x in range(0, 17):
+            produit = euler[y][x] * euler[y - 1][x + 1] * euler[y - 2][x + 2] * euler[y - 3][x + 3]
+            if produit > max_euler:
+                max_euler = produit    
+    return max_euler
 
-# diagonal 1
-for y in range(17):
-    for x in range(17):
-        produit = euler[y][x] * euler[y + 1][x + 1] * euler[y + 2][x + 2] * euler[y + 3][x + 3]
-        if produit > max_euler:
-            max_euler = produit
-          
-# diagonal 2
-for y in range(3, 20):
-    for x in range(0, 17):
-        produit = euler[y][x] * euler[y - 1][x + 1] * euler[y - 2][x + 2] * euler[y - 3][x + 3]
-        if produit > max_euler:
-            max_euler = produit    
-            
-# horizontal
-for y in range(20):
-    for x in range(17):
-        produit = euler[y][x] * euler[y][x + 1] * euler[y][x + 2] * euler[y][x + 3]
-        if produit > max_euler:
-            max_euler = produit  
-            
-# vertical
-for y in range(17):
-    for x in range(20):
-        produit = euler[y][x] * euler[y + 1][x] * euler[y + 2][x] * euler[y + 3][x]
-        if produit > max_euler:
-            max_euler = produit  
+# le max des produits horizontaux
+def horizontal(euler):
+    max_euler = 0
+    for y in range(20):
+        for x in range(17):
+            produit = euler[y][x] * euler[y][x + 1] * euler[y][x + 2] * euler[y][x + 3]
+            if produit > max_euler:
+                max_euler = produit  
+    return max_euler
 
-print(f"{max_euler}")
+# le max des produits verticaux
+def vertical(euler):
+    max_euler = 0
+    for y in range(17):
+        for x in range(20):
+            produit = euler[y][x] * euler[y + 1][x] * euler[y + 2][x] * euler[y + 3][x]
+            if produit > max_euler:
+                max_euler = produit  
+    return max_euler
+
+
+# on récupére les max des 4 directions
+resultat = max(diagonal_1(euler), diagonal_2(euler), horizontal(euler), vertical(euler))
+print(f"{resultat}")
