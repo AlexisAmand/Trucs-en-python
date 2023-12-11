@@ -73,7 +73,7 @@ Je me suis enfin décidé à apprendre le Python !
 
 * Windows 11
 * Visual Studio 17.8.3   
-* Visual Studio Code 1.84.2
+* Visual Studio Code 1.85
 * Python 3.12
 * pip 23.3.1
 
