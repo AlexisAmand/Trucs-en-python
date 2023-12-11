@@ -26,6 +26,7 @@ Je me suis enfin décidé à apprendre le Python !
 * [18. Afficher toutes les paires de lettres différentes](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Bases/exercice-18.py)
 * [19. Le plus gros produit d'une matrice](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Bases/exercice-19.py)
 * [21. Triangle de Pascal](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Bases/exercice-21.py)
+* [22. Le chiffre de César](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Bases/exercice-22.py)
 
 ## Python — Entraînement
 
