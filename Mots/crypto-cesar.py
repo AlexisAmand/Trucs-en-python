@@ -1,5 +1,5 @@
 ﻿# Le chiffre de César (crypter)
-# Il s'agit juste d'une version interactive de celle que j'ai proposé sur Hackinscience
+# Il s'agit juste d'une version interactive et optimisée de celle que j'ai proposé sur Hackinscience
 
 import string
 
@@ -27,4 +27,4 @@ def caesar_cypher_encrypt(s, key):
 no_coded = input("Le texte à coder: ")
 code = int(input("Le décalage (3 pour César): "))
 
-print(f"\nLa chaine codée est: {caesar_cypher_encrypt(no_coded, code)}")
+print(f"\nLe texte codée est: {caesar_cypher_encrypt(no_coded, code)}")
