@@ -5,6 +5,8 @@ On apprend Python doucement...
 * [Deux mots sont-ils des anagrammes ?](https://github.com/AlexisAmand/python/blob/master/Mots/anagramme.py)
 * [Le chiffre de César (crypter)](https://github.com/AlexisAmand/python/blob/master/Mots/crypto-cesar.py) (En cours)
 * [Le chiffre de César (decrypter)](https://github.com/AlexisAmand/python/blob/master/Mots/decrypto-cesar.py) (En cours)
+* [Le chiffre de Polybe (crypter)](https://github.com/AlexisAmand/python/blob/master/Mots/crypto-polybe.py) (En cours)
+* [Le chiffre de Polybe (decrypter)](https://github.com/AlexisAmand/python/blob/master/Mots/decrypto-polybe.py) (En cours)
 * [Le mot est-il un palindrome ?](https://github.com/AlexisAmand/python/blob/master/Mots/palindrome.py)
 * [Le jeu du Pendu](https://github.com/AlexisAmand/python/blob/master/Mots/pendu.py)
 
