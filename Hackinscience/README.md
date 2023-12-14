@@ -25,8 +25,7 @@ Je me suis enfin décidé à apprendre le Python !
 * [17. Afficher toutes les paires de lettres](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Bases/exercice-17.py)
 * [18. Afficher toutes les paires de lettres différentes](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Bases/exercice-18.py)
 * [19. Le plus gros produit d'une matrice](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Bases/exercice-19.py)
-* [21. Triangle de Pascal](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Bases/exercice-21.py)
-* [22. Le chiffre de César](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Bases/exercice-22.py)
+
 
 ## Python — Entraînement
 
@@ -47,6 +46,8 @@ Je me suis enfin décidé à apprendre le Python !
 * [15. Faire des requêtes HTTP](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Entrainement/exercice-15.py)
 * [16. Le plus gros produit d'une suite](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Entrainement/exercice-16.py)
 * [18. La plus longue séquence de Collatz](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Entrainement/exercice-18.py)
+* [19. Le plus gros produit d'une matrice](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Entrainement/exercice-19.py)
+* [21. Triangle de Pascal](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Entrainement/exercice-21.py)
 
 ## Python — Réaliste
 
@@ -60,6 +61,9 @@ Je me suis enfin décidé à apprendre le Python !
 * [8. La carte manquante](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Realiste/exercice-08.py)
 * [11. Monnnaie](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Realiste/exercice-11.py)
 * [13. Mélange à queue d'aronde](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Realiste/exercice-13.py)
+* [14. Des emojis en forme de coeur](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Realiste/exercice-14.py)
+* [18. Indicateur de charge](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Realiste/exercice-18.py)
+* [22. chiffre de César](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Realiste/exercice-22.py)
 * [23. Attaque d'un coffre fort](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Realiste/exercice-23.py)
 
 ## Python en ligne de commande
@@ -73,7 +77,7 @@ Je me suis enfin décidé à apprendre le Python !
 
 * Windows 11
 * Visual Studio 17.8.3   
-* Visual Studio Code 1.85
+* Visual Studio Code 1.85.1
 * Python 3.12
 * pip 23.3.1
 
