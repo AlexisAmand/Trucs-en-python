@@ -2,12 +2,7 @@
 
 def battery_charge(charge):
     nb = round(charge / 10)
-    print("[",end="")
-    for i in range(nb):
-        print("|", end="")
-    for i in range(10 - nb):
-        print(" ", end="")
-    print("]")
+    print("[" + nb * "|" + (10 - nb) * " " + "]")    
     print(f"{charge}%")
 
 # pour les tests
