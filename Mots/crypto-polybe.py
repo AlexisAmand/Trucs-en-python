@@ -1,4 +1,4 @@
-﻿# Le chiffre de Polybe (crypter)
+﻿# Le carré de Polybe (crypter)
 # j'ai utilisé la variante avec des chiffres pour éviter la confusion I/J
 
 # cette fonction fait le cryptage

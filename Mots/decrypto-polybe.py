@@ -1,4 +1,4 @@
-﻿# Le chiffre de Polybe (décrypter)
+﻿# Le carré de Polybe (décrypter)
 # j'ai utilisé la variante avec des chiffres pour éviter la confusion I/J
 
 # cette fonction fait le décryptage

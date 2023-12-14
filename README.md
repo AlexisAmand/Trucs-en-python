@@ -28,15 +28,18 @@ Je me suis enfin décidé à apprendre le Python !
 ## Jouons avec les mots !
 
 * [Deux mots sont-ils des anagrammes ?](https://github.com/AlexisAmand/python/blob/master/Mots/anagramme.py)
-* [Le chiffre de César](https://github.com/AlexisAmand/python/blob/master/Mots/cesar.py) (En cours)
+* [Le chiffre de César (crypter)](https://github.com/AlexisAmand/python/blob/master/Mots/crypto-cesar.py) (En cours)
+* [Le chiffre de César (decrypter)](https://github.com/AlexisAmand/python/blob/master/Mots/decrypto-cesar.py) (En cours)
+* [Le carré de Polybe (crypter)](https://github.com/AlexisAmand/python/blob/master/Mots/crypto-polybe.py) (En cours)
+* [Le carré de Polybe (decrypter)](https://github.com/AlexisAmand/python/blob/master/Mots/decrypto-polybe.py) (En cours)
 * [Le mot est-il un palindrome ?](https://github.com/AlexisAmand/python/blob/master/Mots/palindrome.py)
-* [Le jeu du Pendu](https://github.com/AlexisAmand/python/blob/master/Mots/pendu.py)
 
 ## Jeux
 
 * [Jouer à Chifoumi contre l'ordinateur !](https://github.com/AlexisAmand/python/blob/master/Games/chifoumi.py)
 * [Le Gasp](https://github.com/AlexisAmand/python/blob/master/Games/Pygasp)
 * [Seras-tu capable de trouver à quel nombre pense l'ordinateur ?](https://github.com/AlexisAmand/python/blob/master/Games/FindTheNumber.py)
+* [Le Pendu](https://github.com/AlexisAmand/python/blob/master/Games/pendu.py)
 
 ## Les algos de tri
 
