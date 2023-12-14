@@ -80,7 +80,7 @@ Vous pouvez retrouver sur cette page toutes mes tentatives de réponses aux déf
 * Windows 11
 * Visual Studio 17.8.3
 * Visual Studio Code 1.85.1
-* Python 3.12
+* Python 3.12.1
 * pip 23.3.1
 
 ## Cette page vous a été utile ?

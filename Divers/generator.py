@@ -3,7 +3,6 @@
 # https://tinyurl.com/596tmkyc
 
 import random
-import mido
 from mido import MidiFile, MidiTrack, Message
 
 # cette fonction joue une mélodie
