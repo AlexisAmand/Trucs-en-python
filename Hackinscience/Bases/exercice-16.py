@@ -1,9 +1,10 @@
-﻿# Températures
+﻿# Les multiples de 3 et 5
 
-def fahrenheit_to_celsius(temp):
-    c = (temp - 32) * 5/9
-    return c
+n = 0
+somme = 0
 
-def celsius_to_fahrenheit(temp):
-    f = 9/5 * temp + 32
-    return f
+for n in range(0, 1000):
+    if n % 3 == 0 or n % 5 == 0:
+        somme += n
+    
+print(somme)

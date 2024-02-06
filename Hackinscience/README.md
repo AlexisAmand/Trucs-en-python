@@ -17,14 +17,13 @@ Je me suis enfin décidé à apprendre le Python !
 * [9. Import](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Bases/exercice-09.py)
 * [10. Comparer](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Bases/exercice-10.py)
 * [11. Compter les mots](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Bases/exercice-11.py)
-* [12. Une première fonction](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Bases/exercice-12.py)
-* [13. Afficher les nombres pairs](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Bases/exercice-13.py)
-* [14. Somme des nombres pairs inférieurs à 100](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Bases/exercice-14.py)
-* [15. Les multiples de 3 et 5](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Bases/exercice-15.py)
-* [16. Températures](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Bases/exercice-16.py)
-* [17. Afficher toutes les paires de lettres](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Bases/exercice-17.py)
-* [18. Afficher toutes les paires de lettres différentes](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Bases/exercice-18.py)
-* [19. Le plus gros produit d'une matrice](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Bases/exercice-19.py)
+* [13. Une première fonction](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Bases/exercice-13.py)
+* [14. Afficher les nombres pairs](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Bases/exercice-14.py)
+* [15. Somme des nombres pairs inférieurs à 100](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Bases/exercice-15.py)
+* [16. Les multiples de 3 et 5](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Bases/exercice-16.py)
+* [17. Températures](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Bases/exercice-17.py)
+* [18. Afficher toutes les paires de lettres](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Bases/exercice-18.py)
+* [19. Afficher toutes les paires de lettres différentes](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Bases/exercice-19.py)
 
 
 ## Python — Entraînement
@@ -63,6 +62,7 @@ Je me suis enfin décidé à apprendre le Python !
 * [13. Mélange à queue d'aronde](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Realiste/exercice-13.py)
 * [14. Des emojis en forme de coeur](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Realiste/exercice-14.py)
 * [18. Indicateur de charge](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Realiste/exercice-18.py)
+* [20. Présenter des nombres](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Realiste/exercice-20.py)
 * [22. chiffre de César](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Realiste/exercice-22.py)
 * [23. Attaque d'un coffre fort](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Realiste/exercice-23.py)
 
@@ -76,10 +76,10 @@ Je me suis enfin décidé à apprendre le Python !
 ##  Ma config
 
 * Windows 11
-* Visual Studio 17.8.3   
-* Visual Studio Code 1.85.1
+* Visual Studio 17.8.6   
+* Visual Studio Code 1.86
 * Python 3.12.1
-* pip 23.3.1
+* pip 24
 
 ## Cette page vous a été utile ?
 

@@ -1,8 +1,9 @@
-﻿# Afficher toutes les paires de lettres
+﻿# Températures
 
-from string import ascii_lowercase
+def fahrenheit_to_celsius(temp):
+    c = (temp - 32) * 5/9
+    return c
 
-for i in ascii_lowercase:
-    for j in ascii_lowercase:
-        r = i + j
-        print(r)
+def celsius_to_fahrenheit(temp):
+    f = 9/5 * temp + 32
+    return f

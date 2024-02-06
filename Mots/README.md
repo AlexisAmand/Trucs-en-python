@@ -12,10 +12,10 @@ On apprend Python doucement...
 ##  Ma config
 
 * Windows 11
-* Visual Studio 17.8.3 
-* Visual Studio Code 1.85.1
+* Visual Studio 17.8.6 
+* Visual Studio Code 1.86
 * Python 3.12.1
-* pip 23.3.1
+* pip 24
 
 ## Cette page vous a été utile ?
 Pourquoi pas me remercier en m'offrant un café ?

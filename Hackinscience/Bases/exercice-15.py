@@ -1,10 +1,9 @@
-﻿# Les multiples de 3 et 5
+﻿# Somme des nombres pairs <= 100
 
-n = 0
 somme = 0
 
-for n in range(0, 1000):
-    if n % 3 == 0 or n % 5 == 0:
-        somme += n
+for i in range(0,101):
+    if i % 2 == 0:
+        somme += i
     
 print(somme)

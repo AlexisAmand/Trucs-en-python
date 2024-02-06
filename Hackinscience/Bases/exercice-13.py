@@ -1,6 +1,6 @@
-﻿# Afficher les nombres pairs
+﻿# Une première fonction
 
-def print_even_numbers(start, stop):
-    for i in range(start,stop):
-        if i % 2 == 0:
-            print(i)
+from math import pi
+
+def circle_perimeter(radius):
+    return 2 * pi * radius

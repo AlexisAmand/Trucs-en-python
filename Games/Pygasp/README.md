@@ -12,9 +12,9 @@ Il s'agit d'une adaptation d'un listing en basic paru dans le n°38 de Jeux & St
 
 * Windows 11
 * Visual Studio 17.8.1
-* Visual Studio Code 1.84.1   
+* Visual Studio Code 1.86   
 * Python 3.12
-* pip 23.3.1
+* pip 24
 
 ## Cette page vous a été utile ?
 Pourquoi pas me remercier en m'offrant un café ?
