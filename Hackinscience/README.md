@@ -17,6 +17,7 @@ Je me suis enfin décidé à apprendre le Python !
 * [9. Import](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Bases/exercice-09.py)
 * [10. Comparer](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Bases/exercice-10.py)
 * [11. Compter les mots](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Bases/exercice-11.py)
+* [12. Réparer is_anagram](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Bases/exercice-12.py)
 * [13. Une première fonction](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Bases/exercice-13.py)
 * [14. Afficher les nombres pairs](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Bases/exercice-14.py)
 * [15. Somme des nombres pairs inférieurs à 100](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Bases/exercice-15.py)
