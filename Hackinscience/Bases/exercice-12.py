@@ -9,5 +9,3 @@ def is_anagram(left, right):
 # pour les tests
 
 is_anagram("sixela","alexis")
-
-

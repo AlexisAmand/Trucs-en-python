@@ -26,7 +26,6 @@ Je me suis enfin décidé à apprendre le Python !
 * [18. Afficher toutes les paires de lettres](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Bases/exercice-18.py)
 * [19. Afficher toutes les paires de lettres différentes](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Bases/exercice-19.py)
 
-
 ## Python — Entraînement
 
 * [1. Distance](https://github.com/AlexisAmand/python/blob/master/Hackinscience/Entrainement/exercice-01.py)
