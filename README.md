@@ -22,8 +22,9 @@ Je me suis enfin décidé à apprendre le Python !
 ## Jouons avec les dates !
 
 * [A quel jour de la semaine correspond une date ?](https://github.com/AlexisAmand/python/blob/master/Dates/jour-semaine.py)
-* [Calendrier perpétuel](https://github.com/AlexisAmand/python/blob/master/Dates/calendar.py)
+* [Calendrier perpétuel](https://github.com/AlexisAmand/python/blob/master/Dates/calendrier.py)
 * [Une année est-elle bissextile ?](https://github.com/AlexisAmand/python/blob/master/Dates/bissextile.py)
+* [Calendrier du mois en cours](https://github.com/AlexisAmand/python/blob/master/Dates/month.py)
 
 ## Jouons avec les mots !
 
