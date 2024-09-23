@@ -5,6 +5,7 @@ On apprend Python doucement...
 * [Jouer à Chifoumi contre l'ordinateur !](https://github.com/AlexisAmand/python/blob/master/Games/chifoumi.py)
 * [Le Gasp](https://github.com/AlexisAmand/python/blob/master/Games/Pygasp)
 * [Le Pendu](https://github.com/AlexisAmand/python/blob/master/Games/pendu.py)
+* [Pypang (en cours) ](https://github.com/AlexisAmand/python/blob/master/Games/pypang.py)
 * [Seras-tu capable de trouver à quel nombre pense l'ordinateur ?](https://github.com/AlexisAmand/python/blob/master/Games/FindTheNumber.py)
 
 ##  Ma config

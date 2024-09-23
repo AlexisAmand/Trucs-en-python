@@ -39,8 +39,9 @@ Je me suis enfin décidé à apprendre le Python !
 
 * [Jouer à Chifoumi contre l'ordinateur !](https://github.com/AlexisAmand/python/blob/master/Games/chifoumi.py)
 * [Le Gasp](https://github.com/AlexisAmand/python/blob/master/Games/Pygasp)
-* [Seras-tu capable de trouver à quel nombre pense l'ordinateur ?](https://github.com/AlexisAmand/python/blob/master/Games/FindTheNumber.py)
 * [Le Pendu](https://github.com/AlexisAmand/python/blob/master/Games/pendu.py)
+* [Pypang (en cours) ](https://github.com/AlexisAmand/python/blob/master/Games/pypang.py)
+* [Seras-tu capable de trouver à quel nombre pense l'ordinateur ?](https://github.com/AlexisAmand/python/blob/master/Games/FindTheNumber.py)
 
 ## Les algos de tri
 
@@ -81,8 +82,8 @@ Vous pouvez retrouver sur cette page toutes mes tentatives de réponses aux déf
 * Windows 11
 * Visual Studio 17.8.6
 * Visual Studio Code 1.86
-* Python 3.12.1
-* pip 24
+* Python 3.12.6
+* pip 24.2
 
 ## Cette page vous a été utile ?
 Pourquoi pas me remercier en m'offrant un café ?
