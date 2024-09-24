@@ -89,7 +89,33 @@ class VillageGame:
                     print(f"Vendu {amount} unités de bois pour {profit} pièces.")
                 else:
                     print("Pas assez de bois en stock.")
+    
+    # La fonction qui permet de construire
+    def build_bat(self):
+        
+        # On construit des maisons ?
+        if self.money >= 20:  # Coût pour améliorer un bâtiment ou construire une maison
+            build_choice = input("Veux-tu construire une maison pour un coût de 10 unités de bois (O/N) ? ").lower()
+            if build_choice == 'o':
+                if self.wood_stock >= 10:  # Coût en bois pour construire une maison
+                    self.wood_stock -= 10  # Coût en bois pour construire une maison
+                    self.houses_built += 1
+                    print("Une maison a été construite !")
+                else:
+                    print("Pas assez de bois pour construire une maison.")
 
+        # On construit des entrepôts ?
+        if self.money >= 20:  # Coût pour améliorer un bâtiment ou construire une maison
+            build_choice = input("Veux-tu construire un entrepot pour un coût de 10 unités de bois (O/N) ? ").lower()
+            if build_choice == 'o':
+                if self.wood_stock >= 10:  # Coût en bois pour construire un entrepot
+                    self.wood_stock -= 10  # Coût en bois pour construire un entrepot
+                    self.warehouses_built += 1
+                    print("Un entrepot a été construit !")
+                    self.warehouse_capacity =  self.warehouse_capacity + 100
+                else:
+                    print("Pas assez de bois pour construire un entrepot.")
+        
     def simulate_year(self, rice_workers, wood_workers):
         # Calculer la récolte de riz et de bois
         rice_produced = self.plant_rice(rice_workers)
@@ -148,27 +174,6 @@ class VillageGame:
         self.rice_stock -= stolen_rice
         print(f"Des brigands ont pillé {stolen_rice} kg de riz.")
 
-    # construction de maison supplémentaire
-
-    def build_house(self):
-        if self.wood_stock >= 10:  # Coût en bois pour construire une maison
-            self.wood_stock -= 10  # Coût en bois pour construire une maison
-            self.houses_built += 1
-            print("Une maison a été construite !")
-        else:
-            print("Pas assez de bois pour construire une maison.")
-
-    # construction d'un entrepot supplémentaire
-
-    def build_warehouse(self):
-        if self.wood_stock >= 10:  # Coût en bois pour construire un entrepot
-            self.wood_stock -= 10  # Coût en bois pour construire un entrepot
-            self.warehouses_built += 1
-            print("Un entrepot a été construit !")
-            self.warehouse_capacity =  self.warehouse_capacity + 100
-        else:
-            print("Pas assez de bois pour construire un entrepot.")
-
     def play(self):
 
         print("Bienvenue dans Pypang !")
@@ -195,19 +200,8 @@ class VillageGame:
             # Commerce avec d'autres villages
             self.trade()
 
-            print("\n--- Constructions ---")
-
-            # On construit des maisons ?
-            if self.money >= 20:  # Coût pour améliorer un bâtiment ou construire une maison
-                build_choice = input("Veux-tu construire une maison pour un coût de 10 unités de bois (O/N) ? ").lower()
-                if build_choice == 'o':
-                    self.build_house()
-
-            # On construit des entrepôts ?
-            if self.money >= 20:  # Coût pour améliorer un bâtiment ou construire une maison
-                build_choice = input("Veux-tu construire un entrepot pour un coût de 10 unités de bois (O/N) ? ").lower()
-                if build_choice == 'o':
-                    self.build_warehouse()
+            # Construction
+            self.build_bat()
 
             self.year += 1
 
