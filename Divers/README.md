@@ -8,6 +8,7 @@ On apprend Python doucement...
 * [Générateur de mélodie aléatoire](https://github.com/AlexisAmand/python/blob/master/Divers/generator.py)
 * [Générateur de mots de passe aléatoires](https://github.com/AlexisAmand/python/blob/master/Divers/password-generator.py)
 * [Générateur de labyrinthe](https://github.com/AlexisAmand/python/blob/master/Divers/pylaby.py)
+* [Clics automatiques](https://github.com/AlexisAmand/python/blob/master/Divers/autoclic.py)
 
 ##  Ma config
 
