@@ -183,15 +183,19 @@ class VillageGame:
         while self.year <= self.max_years and self.population > 0:
             print(f"\n--- Année {self.year} ---")
             print(f"Population actuelle : {self.population}")
-            print(f"Stock de riz : {self.rice_stock} kg (max : {self.warehouse_capacity}) | Stock de bois : {self.wood_stock} unités | Argent : {self.money} pièces")
+
+            print(f"Stock de riz : {self.rice_stock} kg (max : {self.warehouse_capacity})")
+            print(f"Stock de bois : {self.wood_stock} unités (max : {self.wood_capacity})")
+            print(f"Argent : {self.money} pièces\n") 
 
             while True:
+                print("--- Gestion de la main d'oeuvre ---")
                 rice_workers = int(input(f"Combien de villageois affectés à l'agriculture (sur {self.population}) ? "))
                 wood_workers = int(input(f"Combien de villageois affectés à la coupe de bois (sur {self.population - rice_workers}) ? "))
                 
                 if rice_workers + wood_workers > self.population:
                     print("Doucement petit dragon !")
-                    print("Le nombre total de travailleurs dépasse la population.")
+                    print("Le nombre total de travailleurs dépasse ta population.")
                 else:
                     break
 
@@ -203,6 +207,7 @@ class VillageGame:
             # Construction
             self.build_bat()
 
+            # Passe à l'année d'après
             self.year += 1
 
         if self.population > 0:
