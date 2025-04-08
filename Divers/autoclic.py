@@ -8,7 +8,7 @@ try:
     while True:
         # Obtenir la position actuelle de la souris
         x, y = pyautogui.position()
-        print(f"Clic simulé à la position : ({x}, {y})")
+        print(f"Simulated click at position  : ({x}, {y})")
 
         # Déplacer la souris et simuler le clic
         pyautogui.moveTo(x, y, duration=0.1)
@@ -19,4 +19,4 @@ try:
         time.sleep(wait_time)
 
 except KeyboardInterrupt:
-    print("\nProgramme arrêté par l'utilisateur.")
+    print("\nProgram stopped by user.")

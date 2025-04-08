@@ -21,7 +21,7 @@ On apprend Python doucement...
 
 * Windows 11
 * Visual Studio 17.8.6 
-* Visual Studio Code 1.86
+* Visual Studio Code 1.99.0
 * Python 3.12.1
 * pip 24
 

@@ -62,11 +62,11 @@ Je me suis enfin décidé à apprendre le Python !
 * [Générateur de labyrinthe](https://github.com/AlexisAmand/python/blob/master/Divers/pylaby.py)
 * [Clics automatiques](https://github.com/AlexisAmand/python/blob/master/Divers/autoclic.py)
 
-## Hackinscience
+## Genepy (ex Hackinscience)
 
 [HackInScience](https://www.hackinscience.org/) est une plateforme d'entrainement libre, sans publicité et open-source (dépôt sur framagit), par une équipe de passionnés du langage Python. Je vous propose sur cette page mes solutions à leurs exercices.
 
-* [Mes réponses à leurs exercices](https://github.com/AlexisAmand/python/tree/master/Hackinscience)
+* [Mes réponses à leurs exercices](https://github.com/AlexisAmand/python/tree/master/Genepy)
 
 ## Codingame
 
@@ -83,7 +83,7 @@ Vous pouvez retrouver sur cette page toutes mes tentatives de réponses aux déf
 
 * Windows 11
 * Visual Studio 17.8.6
-* Visual Studio Code 1.86
+* Visual Studio Code 1.99.0
 * Python 3.12.6
 * pip 24.2
 

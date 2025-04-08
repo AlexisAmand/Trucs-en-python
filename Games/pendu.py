@@ -21,7 +21,7 @@ for i in range(len(wordtofind)):
     
 # en tête
 print("Le Pendu !\n")
-print("L'ordinateur pense à un mot.")
+print("L'ordinateur pense à un animal.")
 print("Allez-vous réussir à le trouver ?\n")
 print("C'est parti !\n")
 

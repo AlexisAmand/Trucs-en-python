@@ -2,10 +2,13 @@
   "ExpandedNodes": [
     "",
     "\\Codingame",
+    "\\Divers",
     "\\Games",
+    "\\Games\\Pygasp",
     "\\Maths",
+    "\\Mots",
     "\\TP Graven"
   ],
-  "SelectedNode": "\\Games\\pypang.py",
+  "SelectedNode": "\\Games\\FindTheNumber.py",
   "PreviewInSolutionExplorer": false
 }
