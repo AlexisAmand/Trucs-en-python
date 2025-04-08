@@ -73,6 +73,9 @@ Je me suis enfin décidé à apprendre le Python !
 
 ## Python en ligne de commande
 
+* [1. Afficher les paramètres](https://github.com/AlexisAmand/python/blob/master/Genepy/Commande/exercice-20.py)
+* [2. Afficher le premier paramètre](https://github.com/AlexisAmand/python/blob/master/Genepy/Commande/exercice-21.py)
+* [3. Petit additionneur](https://github.com/AlexisAmand/python/blob/master/Genepy/Entrainement/exercice-E19.py)
 * [4. Calculette](https://github.com/AlexisAmand/python/blob/master/Genepy/Commande/exercice-03.py)
 
 ##  Ma config
